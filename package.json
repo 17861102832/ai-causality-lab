@@ -1,0 +1,29 @@
+{
+  "name": "ai-causality-lab",
+  "version": "1.0.0",
+  "description": "AI 因果律 · 平行人生生成器 — 输入你的真实遗憾，AI 构建平行世界、推演因果链并生成 MiniMax 配图，一键分享「我的平行人生」。",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "ai",
+    "causality",
+    "what-if",
+    "parallel-universe",
+    "minimax",
+    "llm",
+    "generative"
+  ],
+  "author": "赵锡坤 / 墨",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

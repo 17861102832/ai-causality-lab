@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI 因果律 · 平行人生生成器</title>
+  <meta name="description" content="输入你的真实遗憾，AI 构建平行世界、推演因果链并生成配图，一键分享「我的平行人生」。" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="cosmos"></div>
+
+  <header class="hero">
+    <div class="badge">CAUSALITY ENGINE · 因果律引擎</div>
+    <h1>AI 因果律</h1>
+    <p class="subtitle">每个人都有后悔的事。<br />输入它，让 AI 帮你看看另一种可能。</p>
+  </header>
+
+  <main class="stage">
+    <!-- 输入区：现实种子 + 平行变量 -->
+    <section class="panel input-panel">
+      <div class="step-tag">① 现实种子 · ② 平行变量</div>
+      <label class="field">
+        <span class="label">原事件（真实发生过的遗憾）</span>
+        <textarea id="event" rows="3" placeholder="例：昨天那只股票涨停 30%，我没敢买。"></textarea>
+      </label>
+      <label class="field">
+        <span class="label">如果当时…（那个不同的选择）</span>
+        <textarea id="alt" rows="3" placeholder="例：如果当时我全仓买进了它。"></textarea>
+      </label>
+      <label class="field tone">
+        <span class="label">语气倾向（选填）</span>
+        <select id="tone">
+          <option value="真实、克制、有温度">真实 · 克制 · 有温度</option>
+          <option value="释然、温柔">释然 · 温柔</option>
+          <option value="反转、戏剧">反转 · 戏剧</option>
+          <option value="热血、燃">热血 · 燃</option>
+        </select>
+      </label>
+      <div class="examples">
+        <span class="examples-label">懒得想？点一个：</span>
+        <button class="chip" data-ev="昨天那只股票涨停30%，我没敢买" data-alt="如果当时我全仓买进了它">📈 那只涨停股</button>
+        <button class="chip" data-ev="三年前那个雨天，我没跟她说出口的那句话" data-alt="如果当时我转身叫住了她">💔 没说出口的话</button>
+        <button class="chip" data-ev="高考填志愿，我听了家里的话选了不喜欢的专业" data-alt="如果当时我填了想去的那个城市">🎓 那个志愿</button>
+      </div>
+      <button id="run" class="run-btn">推演平行人生 →</button>
+      <p id="demoHint" class="demo-hint"></p>
+    </section>
+
+    <!-- 推演进度 -->
+    <section id="progress" class="panel progress-panel hidden">
+      <div class="step" data-step="seed"><span class="dot"></span>种子注入：读取你的遗憾</div>
+      <div class="step" data-step="fork"><span class="dot"></span>变量改写：分叉时间线</div>
+      <div class="step" data-step="chain"><span class="dot"></span>因果链生成：推演蝴蝶效应</div>
+      <div class="step" data-step="render"><span class="dot"></span>世界渲染：MiniMax 绘出平行画面</div>
+    </section>
+
+    <!-- 结果 -->
+    <section id="result" class="panel result-panel hidden">
+      <h2 id="worldTitle" class="world-title"></h2>
+
+      <div class="result-grid">
+        <div class="block">
+          <h3>🔗 因果链</h3>
+          <ol id="chain" class="chain"></ol>
+        </div>
+        <div class="block">
+          <h3>🌌 平行人生</h3>
+          <ul id="life" class="life"></ul>
+        </div>
+      </div>
+
+      <div id="imageWrap" class="image-wrap hidden">
+        <h3>🖼️ 平行世界 · MiniMax 绘</h3>
+        <img id="worldImg" alt="平行世界画面" />
+      </div>
+
+      <div class="ending-block">
+        <p id="ending" class="ending"></p>
+        <div class="golden">
+          <span class="golden-label">金句</span>
+          <span id="golden" class="golden-line"></span>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="shareCard" class="ghost-btn">生成分享卡</button>
+        <button id="copyText" class="ghost-btn">复制分享文案</button>
+        <button id="reset" class="ghost-btn">再推一次</button>
+      </div>
+    </section>
+
+    <!-- 分享卡画布 -->
+    <canvas id="card" width="1080" height="1350" class="hidden"></canvas>
+    <a id="downloadLink" class="hidden"></a>
+  </main>
+
+  <footer class="foot">
+    <p>AI 因果律 · 平行人生生成器 ｜ 对标 MiroFish，差异化于「个人情感 + 配图裂变」｜ 由 MiniMax 驱动</p>
+    <p class="muted">本工具生成内容为 AI 推演的虚构平行世界，仅供情感陪伴与创作娱乐。</p>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
