@@ -4,16 +4,16 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AI 因果律 · 平行人生生成器</title>
-  <meta name="description" content="输入你的真实遗憾，AI 构建平行世界、推演因果链并生成配图，一键分享「我的平行人生」。" />
+  <meta name="description" content="输入你的真实遗憾，多节点递归推理引擎构建平行世界、推演因果链并生成 MiniMax 配图，一键分享「我的平行人生」。" />
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
   <div class="cosmos"></div>
 
   <header class="hero">
-    <div class="badge">CAUSALITY ENGINE · 因果律引擎</div>
+    <div class="badge">CAUSALITY ENGINE · 多节点递归推理引擎</div>
     <h1>AI 因果律</h1>
-    <p class="subtitle">每个人都有后悔的事。<br />输入它，让 AI 帮你看看另一种可能。</p>
+    <p class="subtitle">每个人都有后悔的事。<br />输入它，让引擎帮你看看另一种可能。</p>
   </header>
 
   <main class="stage">
@@ -37,6 +37,16 @@
           <option value="热血、燃">热血 · 燃</option>
         </select>
       </label>
+
+      <div class="strength">
+        <span class="strength-label">推演强度（节点数 × 递归深度）：</span>
+        <div class="strength-btns">
+          <button class="sbtn" data-w="3" data-d="1">轻量</button>
+          <button class="sbtn active" data-w="4" data-d="2">标准</button>
+          <button class="sbtn" data-w="4" data-d="3">深度</button>
+        </div>
+      </div>
+
       <div class="examples">
         <span class="examples-label">懒得想？点一个：</span>
         <button class="chip" data-ev="昨天那只股票涨停30%，我没敢买" data-alt="如果当时我全仓买进了它">📈 那只涨停股</button>
@@ -47,27 +57,29 @@
       <p id="demoHint" class="demo-hint"></p>
     </section>
 
-    <!-- 推演进度 -->
+    <!-- 推演进度：多节点递归 -->
     <section id="progress" class="panel progress-panel hidden">
-      <div class="step" data-step="seed"><span class="dot"></span>种子注入：读取你的遗憾</div>
-      <div class="step" data-step="fork"><span class="dot"></span>变量改写：分叉时间线</div>
-      <div class="step" data-step="chain"><span class="dot"></span>因果链生成：推演蝴蝶效应</div>
-      <div class="step" data-step="render"><span class="dot"></span>世界渲染：MiniMax 绘出平行画面</div>
+      <div class="step" data-step="seed"><span class="dot"></span>种子节点：定位分叉点，拆出人生维度</div>
+      <div class="step" data-step="causal"><span class="dot"></span>并行推演节点：多维度预测第一阶因果</div>
+      <div class="step" data-step="deepen"><span class="dot"></span>递归深化节点：推理 → 再推理 → 再推理</div>
+      <div class="step" data-step="synth"><span class="dot"></span>合成节点：汇总提炼统一因果链</div>
+      <div class="step" data-step="render"><span class="dot"></span>出图节点：MiniMax 绘出平行画面</div>
     </section>
 
     <!-- 结果 -->
     <section id="result" class="panel result-panel hidden">
+      <div class="engine-badge" id="engineBadge"></div>
       <h2 id="worldTitle" class="world-title"></h2>
+      <p id="branchPoint" class="branch-point"></p>
 
-      <div class="result-grid">
-        <div class="block">
-          <h3>🔗 因果链</h3>
-          <ol id="chain" class="chain"></ol>
-        </div>
-        <div class="block">
-          <h3>🌌 平行人生</h3>
-          <ul id="life" class="life"></ul>
-        </div>
+      <div class="block">
+        <h3>🌌 多节点推演（各维度平行人生）</h3>
+        <div id="branches" class="branches"></div>
+      </div>
+
+      <div class="block merged">
+        <h3>🔗 统一因果链（合成节点）</h3>
+        <ol id="merged" class="chain"></ol>
       </div>
 
       <div id="imageWrap" class="image-wrap hidden">
@@ -97,7 +109,6 @@
 
   <footer class="foot">
     <p>AI 因果律 · 平行人生生成器 ｜ 输入遗憾，推演平行人生 ｜ 由 MiniMax 驱动</p>
-    <p class="muted">本工具生成内容为 AI 推演的虚构平行世界，仅供情感陪伴与创作娱乐。</p>
   </footer>
 
   <script src="./app.js"></script>
