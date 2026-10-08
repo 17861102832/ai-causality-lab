@@ -1,0 +1,767 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": true,
+    "messages": [
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@NICK 1个。",
+        "create_time": "2025-11-09 04:20",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_49a43b1d7d9d39c12549005616e1a46f",
+            "key": "@_user_1",
+            "name": "NICK"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1700",
+        "message_id": "om_x100b5e35279c04f00f24a52133e7ca2",
+        "message_position": "1700",
+        "msg_type": "text",
+        "reply_to": "om_x100b5e3507079ca00f3594e0c2bc0a8",
+        "sender": {
+          "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+          "id_type": "open_id",
+          "name": "用户031695",
+          "sender_i18n_names": {
+            "zh_cn": "Learnmore_smart"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bac74bec98e5949"
+        },
+        "update_time": "2025-11-09 04:20",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我只是好奇。",
+        "create_time": "2025-11-09 04:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1701",
+        "message_id": "om_x100b5e35274048a80f3b444ae356fe1",
+        "message_position": "1701",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+          "id_type": "open_id",
+          "name": "用户031695",
+          "sender_i18n_names": {
+            "zh_cn": "Learnmore_smart"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bac74bec98e5949"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[笑哭]",
+        "create_time": "2025-11-09 04:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1702",
+        "message_id": "om_x100b5e3524e0f08c0ecb34b5adcb5bc",
+        "message_position": "1702",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+          "id_type": "open_id",
+          "name": "用户031695",
+          "sender_i18n_names": {
+            "zh_cn": "Learnmore_smart"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bac74bec98e5949"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@NICK 太穷了，没钱买2个[我想静静]\n\n可以考虑去把我的骨灰级thinkpad E480装上[看] 那个开机就卡的，打开个网页加载10秒[泣不成声]",
+        "create_time": "2025-11-09 04:21",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_49a43b1d7d9d39c12549005616e1a46f",
+            "key": "@_user_1",
+            "name": "NICK"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1703",
+        "message_id": "om_x100b5e3523b60ca80f342f3452e207b",
+        "message_position": "1703",
+        "msg_type": "text",
+        "reply_to": "om_x100b5e3507079ca00f3594e0c2bc0a8",
+        "sender": {
+          "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+          "id_type": "open_id",
+          "name": "用户031695",
+          "sender_i18n_names": {
+            "zh_cn": "Learnmore_smart"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bac74bec98e5949"
+        },
+        "update_time": "2025-11-09 04:21",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "如果你有钱买5个电脑，那你难道不会有钱多买extra package吗[看]\n那么有钱，时间肯定比钱更值钱[看]",
+        "create_time": "2025-11-09 04:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1704",
+        "message_id": "om_x100b5e353f7794a00f2b34f4ec8d97e",
+        "message_position": "1704",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+          "id_type": "open_id",
+          "name": "用户031695",
+          "sender_i18n_names": {
+            "zh_cn": "Learnmore_smart"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bac74bec98e5949"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "一台跑四个都行呀",
+        "create_time": "2025-11-09 05:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1705",
+        "message_id": "om_x100b5e366a81cc940f382a6010d2013",
+        "message_position": "1705",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b0e6521f799a33c2a80f85d0f51eb378",
+          "id_type": "open_id",
+          "name": "张新",
+          "sender_i18n_names": {
+            "zh_cn": "Wilson"
+          },
+          "sender_type": "user",
+          "tenant_key": "168a78112e29575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cforwarded_messages\u003e\n[2025-11-10T03:56:11Z] 李东阳:\n    @所有人 **「TRAE SOLO 正式版·功能有奖竞赛」**\n    TRAE SOLO 正式版即将上线，作为全新的 **The Responsive Coding Agent**，这一次，它将带来哪些新能力呢？\n    一起来 “我猜我猜我猜猜猜” ，秀出你的预言！\n    ![Image](img_v3_02rt_f62c072d-8789-4e0d-8870-d4c5ff080f8g)\n    🗳️**参与方式：**在该话题下回复你的猜想评论即可\n    **🎁奖励设置：**\n    ✅**最快答对奖：**前 3 位猜中核心功能的 **TRAE 友， **每人送 50元京东卡！\n    ✅**幸运参与奖：**在评论区随机抽取20位 **TRAE 友**，每人送 10元京东卡！\n    ⏰** 活动截止：** 11月10日 23:59\n    敢猜就有奖，快来评论区留下你的神预测吧！\n[2025-11-10T03:58:03Z] you:\n    网页自动化测试  \n[2025-11-10T03:58:12Z] 飞书用户8087GY:\n    实时预览\n[2025-11-10T03:58:13Z] 抢滩登录:\n    @李东阳 \n    1. **更智能的代码生成**\n      - 能够根据自然语言描述生成高效、优化的代码。\n    2. **多语言支持**\n      - 支持多种编程语言，用户可以选择自己熟悉的语言进行交互。\n    3. **实时调试功能**\n      - 提供实时调试和错误提示，帮助用户快速找到并修复代码中的问题。\n    4. **自适应学习**\n      - 根据用户的使用习惯和偏好，自动调整生成的代码风格和结构。\n    5. **集成开发环境（IDE）插件**\n      - 提供与主流IDE的无缝集成，方便用户在熟悉的环境中使用。\n    6. **丰富的API支持**\n      - 提供丰富的API接口，用户可以灵活调用和扩展功能。\n    7. **社区共享功能**\n      - 用户可以共享自己的代码片段和项目，促进社区的交流与合作。\n[2025-11-10T03:58:44Z] 史宏涛:\n    自然语言一键完整全栈开发配置、上线、支付集成\n[2025-11-10T03:58:45Z] 秘圣淼:\n    \u003cp\u003e基于BrowserUse的前端测试（这我是真想要，现在所有的后端都可以让trae写pytest单测，前端还真就得我一个个点）\u003c/p\u003e\n[2025-11-10T03:58:59Z] 史宏涛:\n    多智能体管理\n[2025-11-10T03:59:18Z] 彭超:\n    solo coder\n[2025-11-10T03:59:31Z] you:\n    融合超级智能体\n[2025-11-10T03:59:35Z] 翟西强:\n    多智能体协同，一键前后端全栈开发部署\n[2025-11-10T04:00:12Z] 钱巍:\n    零代码开发\n[2025-11-10T04:00:12Z] 彭超:\n    可以在solo一下一站式解决所有问题的\n[2025-11-10T04:00:34Z] 秘圣淼:\n    \u003cp\u003e多Agent并行操作\u003c/p\u003e\u003cp\u003e（Trae一直在做Agent管理，但是似乎没有推出过多agent功能，我觉得可能会在这个solo里发布）\u003c/p\u003e\n[2025-11-10T04:01:44Z] 丁瑞:\n    无需打断工作流程直接添加新的指令\n[2025-11-10T04:02:53Z] 张博思:\n    sub-agent\n[2025-11-10T04:06:22Z] Gabriel:\n    多模型协同，根据任务类型或用户指示，选择最适合的模型执行任务，在一次会话中可能调用高达5（10?）种不同的大模型！\n[2025-11-10T04:11:01Z] 李东阳:\n    @彭超 early access选手叉出去[新月脸]\n[2025-11-10T04:11:28Z] Jiaqi:\n    1. 增强的代码上下文理解\n    - 能够更深入地理解整个代码库的结构和依赖关系\n    - 跨文件引用追踪更加精准，支持大型项目的全面分析\n    2. 实时协作编程\n    - 提供更流畅的实时代码编辑体验\n    - 支持多人同时协作开发，带有冲突解决建议\n    3. 智能代码生成与补全\n    - 基于项目历史和最佳实践生成高质量代码\n    - 智能预测开发者意图，提供上下文相关的代码补全\n    4. 自动化调试与优化\n    - 自动识别潜在的代码问题和性能瓶颈\n    - 提供具体的优化建议和修复方案\n    5. 多语言与框架支持\n    - 扩展对更多编程语言和流行框架的支持\n    - 提供框架特定的最佳实践和模式建议\n    6. 可视化开发辅助\n    - 提供代码结构的可视化表示\n    - 通过图表和流程图帮助理解复杂逻辑\n    7. 学习与适应能力\n    - 从用户反馈中学习，不断改进建议质量\n    - 适应用户的编码风格和偏好\n    8. 集成开发工作流\n    - 与常用开发工具和CI/CD流程的深度集成\n    - 提供无缝的开发体验\n[2025-11-10T04:11:30Z] Gabriel:\n    真·会话内存管理。现在尝鲜版推出了基于Markdown文件的模拟内存管理。但SOLO正式版我感觉会出真实版本内存管理，基于mem0的关键信息防遗忘管理，上下文压缩，长短期记忆管理……应该能让开发有效性大幅提升！\n[2025-11-10T04:12:58Z] 李世博:\n    \u003cp\u003e1、上下文处理更优～\u003c/p\u003e\u003cp\u003e2、猜测一下，可能会出现可以手动画流程图、架构图或者各种草图，然后进行生成代码（类似无代码平台）\u003c/p\u003e\u003cp\u003e3、多 Agent 角色管理，实现同时开发前后端等\u003c/p\u003e\u003cp\u003e4、记住用户技术栈选择等喜好，优化技术栈并且可以推荐更加的技术栈\u003c/p\u003e\u003cp\u003e5、跨平台部署，可能会和火山联动，然后实现在火山上直接部署[看]\u003c/p\u003e\u003cp\u003e6、自动审查代码，看是否有安全漏洞等地方\u003c/p\u003e\u003cp\u003e7、可以配置 MCP，或者集成了多个 MCP，让开发更高效\u003c/p\u003e\u003cp\u003e8、在大模型 API 集成 新增  豆包大模型，然后支付 新增 国产支付平台的集成（有可能是友商的，我觉得也有可能说不好是抖音[看]纯猜测）\u003c/p\u003e\u003cp\u003e9、可以自己选模型？或者是内定了一个模型（我觉得模型有可能会有一个能力的提升[看]）\u003c/p\u003e\n[2025-11-10T04:15:42Z] 孙振刚:\n    1支持n8n流程部署，2.支持多agent并行\n[2025-11-10T04:19:42Z] 刘文溢:\n    支持免SOLO Code使用。\n[2025-11-10T04:23:05Z] 彭超:\n    @李东阳 我已经看到了未来\n[2025-11-10T04:28:06Z] 漫川:\n    全流程自动化开发（从需求到部署的端到端交付），具体包括：\n    \n    1. 用自然语言/语音输入需求，AI自动生成PRD文档、拆解任务并完成代码编写（跨文件/技术栈）；\n    \n    2. 自动调试代码、修复错误（比如实时解决前后端参数不匹配）；\n    \n    3. 一键部署到云平台（像Vercel/Cloudflare），直接生成可访问的应用链接；\n    \n    4. 多模态交互（比如上传Figma设计稿自动转前端代码，语音指令修改代码）。\n[2025-11-10T04:28:25Z] 何浩瀚:\n    指名模型进行solo[看]\n[2025-11-10T04:28:57Z] 刘金良:\n    1. solo builder 支持mcp， 2. 增加plugin 致辞。3.  规则像.cursor rule的方式靠近\n[2025-11-10T04:42:52Z] you:\n    solocode的计费方式会发生改变\n[2025-11-10T04:52:13Z] cici:\n    多agent并行处理，自动调试代码，更多的查看已有框架代码处理上下文\n[2025-11-10T04:56:35Z] 徐潇倩:\n    团队协同开发\n[2025-11-10T04:58:37Z] 刘文溢:\n    @cici 多Agent功能早就有了呀，难道你没发现？\n[2025-11-10T05:00:04Z] cici:\n    @刘文溢 不一样的，是8个智能体同时干活，选一个干的干的继续，消耗8份费用\n[2025-11-10T05:08:03Z] 安平静:\n    是不是有这些内容：\n    1.增加模型思考深度，减少人工干预；明确告知思考次数上限；优化提示策略；减少出现\"模型思考次数已达上限的提示；\n    2.进度提示音、消息推送或可视化进度条；\n[2025-11-10T05:12:23Z] 张海洋:\n    sub-agent\n[2025-11-10T05:14:41Z] 李幸:\n    \u003cp\u003e盲测一波[送你小红花]\u003c/p\u003e\u003cp\u003e1.智能协作矩阵\tIntelligent Collaboration Matrix\t实现多AI代理间的智能协作，支持任务分工、结果整合和冲突解决\t提升复杂项目的处理效率，实现1+1\u003e2的协作效果\u003c/p\u003e\u003cp\u003e2.代码洞察引擎\tCode Insight Engine\t深度理解代码逻辑、架构模式和最佳实践，提供智能代码生成建议\t显著提高代码质量和开发速度，减少重复性工作\u003c/p\u003e\u003cp\u003e3.架构规划师\tArchitecture Planner\t智能分析项目需求，推荐最优架构方案和技术栈选择\t帮助开发者做出更好的技术决策，降低项目风险\u003c/p\u003e\u003cp\u003e4.智能诊断医生\tSmart Diagnostics Doctor\t快速定位代码问题，提供修复建议和性能优化方案\t大幅缩短调试时间，提升代码稳定性和性能\u003c/p\u003e\u003cp\u003e5.上下文感知大脑\tContext-Aware Brain\t全面理解项目上下文，包括业务逻辑、技术约束和开发历史\t提供更精准、更贴合实际需求的智能建议\u003c/p\u003e\u003cp\u003e6.记忆存储库\tMemory Repository\t智能存储和读取对话历史、任务状态和项目上下文，实现跨会话连续性\t让AI记住交互与项目状态，提供更连贯、个性化的服务\u003c/p\u003e\u003cp\u003e7.项目复盘专家\tProject Retrospection Expert\t自动生成详细的项目开发过程报告，涵盖关键决策点、踩坑记录与最佳实践\t帮助团队沉淀经验，优化未来开发流程与质量\u003c/p\u003e\u003cp\u003e8.项目测试助手  可以自动单点测试或一键回归测试；\u003c/p\u003e\u003cp\u003e9.大模型管理功能  可以自由选择大模型搭配处理不同任务；\u003c/p\u003e\u003cp\u003e10.项目文件自动分离  测试文件或临时文件放一个文件夹，项目完结以后可以直接删除，主要文件和辅助文件分离，方便用户清理项目冗余；\u003c/p\u003e\u003cp\u003e11.冗余自动回收箱   可以自动回收项目中产生的各种无效文件，测试文件，保持项目简洁；\u003c/p\u003e\n[2025-11-10T05:31:42Z] NICK:\n    666\n[2025-11-10T05:32:01Z] NICK:\n    期待中。。。\n[2025-11-10T05:36:33Z] 李浩瑞:\n    1.  并行Agent能力，多branch分支合作互相合并  2. 更加优化的全自动Agent能力，自动测试和调试 3. 团队间vibe coding合作能力\n[2025-11-10T05:43:15Z] 许雅琳:\n    1，自动理解项目上下文\n    2，多工具协同工作（自动切换 IDE / Terminal / Browser / Doc）\n[2025-11-10T05:49:13Z] 冯梦龙:\n    1、自选 AI 模型\n    2、自动化测试网页功能\n    3、前端 UI 设计模块化根据用户指定自动根据需要优化部分内容调整\n    4、\n[2025-11-10T05:49:24Z] 董正翔:\n    1. 任务队列增强，TODO列表的执行准确度提高\n    2. tool能力增强，准确调用tool\n    3. 多Agent并行，同时执行多个任务，或者自动拆分成多个子任务分配给多Agent并行\n    4. 响应式Agent，用户实时反馈的功能增强，可以及时修正AI的coding方向\n[2025-11-10T06:06:02Z] 李远航:\n    1.多智能体协同。\n    2.一键前后端全栈开发部署。\n    3.多Agent多线程处理任务，提高效率。\n[2025-11-10T06:19:11Z] 刘文昌:\n    超强多agent联合工作\n    例如，输入需求\n    需求专家进行分析\n    UI专家进行UI设计\n    代码进行编辑\n    进行测试，测试完后会删除测试用例\n    如果遇到错误，代码会一直回滚，直到完成编辑\n    最后会有list专家把全部都检查一遍，保证没有错误\n[2025-11-10T06:25:40Z] 贾栾:\n    大概率会对内测时的一些问题做优化：\n    1、支持多种模型选择；\n    2、对上下文长度做优化，或者支持选择不同长度上下文（类似Max模式）；\n    3、一些辅助配置：如支持指定开发语言、开发框架、功能样式等。\n    4、辅助用户需求细化：\n    - 支持按步骤开发，类似扣子的AI应用搭建，从需求到编码分步执行，更有效。\n    - 臆想一下：可以根据需求生成预览效果（大概率只是前端），由用户确认后进行微调。\n    5、开放一些标准功能模块供用户选择集成：如用户登录注册模块、数据列表模块、支付模块、短信邮件模块等。\n[2025-11-10T07:19:46Z] yy:\n    BUG大量修复，更多的AI模型，SOLO无需资格全都可使用，\n[2025-11-10T07:44:39Z] 动物园园长:\n    项目记忆：能够基于项目结构及历史对话生成一份文档独立于user rules/project rules 且随着对话不断完善该记忆文档\n[2025-11-10T07:54:08Z] 苏州-计算机-雾烈:\n    跨文件重构”与“巨型仓库内补全”，50 万行规模项目可一次改 10+ 文件并保持风格一致\n[2025-11-10T07:54:41Z] 梦醒未醒:\n    1、多文件一致性编辑：一次指令生成跨文件补丁，自动维护引用、导入、类型迁移与依赖更新，避免只修一处的偏差。\n    2、实时全局检索与符号地图：跨语言、跨目录的语义检索；调用/被调用关系、使用点、类型来源一键可视化。\n    3、错误复现与自修循环：抓取运行日志/堆栈后自动生成复现命令，给出最小修复补丁并回归验证，形成“Run→Fix→Re-run”闭环。\n[2025-11-10T07:57:17Z] 朱洪涛(朱通):\n    1、一键创建项目\n    2、一键打包、部署、支持CI/CD\n    3、一键优化、一键注释\n[2025-11-10T07:58:10Z] 吴彬:\n    项目私有wiki\n[2025-11-10T08:35:00Z] 林凯:\n    需求、设计、测试、部署全流程完成功能，多agent 全流程协作\n[2025-11-10T08:37:00Z] 韦舒松:\n    1、任务粒度更细\n    2、模型运行时可中断纠正\n[2025-11-10T09:15:43Z] 鱼得水:\n    **🎯 核心更新预测：SOLO 2.0 - 真正的响应式编程代理**\n    **1. 响应式多模态编程引擎**\n    **预测依据**：海报标题 \"Responsive Coding Agent\" 和中间的六边形多模态界面\n    - **智能感知开发状态**：实时监测代码编辑、浏览器预览、终端输出等多维度信息\n    - **自适应工具调度**：根据开发阶段自动切换最合适的工具面板（编辑器→浏览器→终端→文档）\n    - **上下文连续性**：跨工具保持开发上下文，避免重复操作\n    **2. 任务驱动的智能开发流程**\n    **预测依据**：海报右侧任务管理界面显示 \"Completed/In progress/Waiting for action\"\n    - **AI 任务拆解**：将复杂需求自动分解为可执行的开发任务\n    - **进度可视化追踪**：实时显示每个任务的完成状态和依赖关系\n    - **智能优先级调整**：根据代码变更自动调整后续开发任务优先级\n    **3. 全栈响应式开发套件**\n    **预测依据**：海报左侧代码编辑器显示响应式代码输出\n    - **响应式布局智能生成**：支持移动端、平板、桌面端自适应代码生成\n    - **跨端兼容性自动检测**：实时检查不同设备和浏览器的兼容性问题\n    - **性能优化建议**：自动识别并优化响应式设计中的性能瓶颈\n    **4. 增强型多模态交互能力**\n    **预测依据**：海报中间六边形包含代码、图像、地球等多种图标\n    - **语音驱动开发**：支持自然语言语音输入生成代码\n    - **图像智能理解**：上传设计稿自动生成响应式 HTML/CSS 代码\n    - **文档自动关联**：自动检索相关技术文档和最佳实践\n    **5. 团队协作响应式升级**\n    **预测依据**：市场趋势显示团队协作是重要发展方向\n    - **实时多人协作**：支持多开发者同时编辑，AI 自动协调代码冲突\n    - **开发进度同步**：团队成员实时共享开发进度和任务状态\n    - **代码评审智能化**：AI 辅助代码评审，自动识别潜在问题\n    **6. 云原生响应式部署**\n    **预测依据**：当前 AI 编程工具都在强化云原生集成\n    - **一键响应式部署**：自动配置 CDN、负载均衡等基础设施\n    - **多环境适配**：开发、测试、生产环境一键切换\n    - **资源自动扩缩容**：根据访问量自动调整云资源配置\n    **🚀 技术创新亮点**\n    **响应式 AI Agent 架构**\n    - **事件驱动的智能体**：基于开发事件自动触发 AI 辅助\n    - **预测性代码补全**：根据上下文预测开发者下一步需求\n    - **自适应学习**：持续学习用户编码习惯和项目规范\n    **多模态上下文融合**\n    - **跨模态理解**：同时处理代码、自然语言、图像等多种输入\n    - **全局上下文感知**：理解整个项目结构而非单一文件\n    - **历史记忆机制**：记住之前的开发决策和偏好\n    **📊 市场定位升级**\n    从海报和市场趋势来看，Trae Solo 这次更新将：\n    - **从工具向伙伴升级**：更智能的交互体验\n    - **从个人向团队扩展**：强化协作能力\n    - **从编码向全流程覆盖**：从需求到部署的完整开发链路\n    **💡 竞争优势分析**\n    相比当前主流 AI 编程工具：\n    - **更专注响应式开发**：针对现代 Web 开发的核心需求\n    - **更智能的任务管理**：AI 驱动的开发流程优化\n    - **更自然的多模态交互**：降低技术门槛，提升开发体验\n\u003c/forwarded_messages\u003e",
+        "create_time": "2025-11-10 11:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1713",
+        "message_id": "om_x100b5e28db17c8d00f49ba8d5f9ec7e",
+        "message_position": "1713",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_49a43b1d7d9d39c12549005616e1a46f",
+          "id_type": "open_id",
+          "name": "NICK",
+          "sender_type": "user",
+          "tenant_key": "2c90ba82a4cd175f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cforwarded_messages\u003e\n[2025-11-10T03:56:11Z] 李东阳:\n    @所有人 **「TRAE SOLO 正式版·功能有奖竞赛」**\n    TRAE SOLO 正式版即将上线，作为全新的 **The Responsive Coding Agent**，这一次，它将带来哪些新能力呢？\n    一起来 “我猜我猜我猜猜猜” ，秀出你的预言！\n    ![Image](img_v3_02rt_db006e4c-14a5-4b15-acf8-6c2b0c3361ag)\n    🗳️**参与方式：**在该话题下回复你的猜想评论即可\n    **🎁奖励设置：**\n    ✅**最快答对奖：**前 3 位猜中核心功能的 **TRAE 友， **每人送 50元京东卡！\n    ✅**幸运参与奖：**在评论区随机抽取20位 **TRAE 友**，每人送 10元京东卡！\n    ⏰** 活动截止：** 11月10日 23:59\n    敢猜就有奖，快来评论区留下你的神预测吧！\n[2025-11-10T03:58:03Z] you:\n    网页自动化测试  \n[2025-11-10T03:58:12Z] 飞书用户8087GY:\n    实时预览\n[2025-11-10T03:58:13Z] 抢滩登录:\n    @李东阳 \n    1. **更智能的代码生成**\n      - 能够根据自然语言描述生成高效、优化的代码。\n    2. **多语言支持**\n      - 支持多种编程语言，用户可以选择自己熟悉的语言进行交互。\n    3. **实时调试功能**\n      - 提供实时调试和错误提示，帮助用户快速找到并修复代码中的问题。\n    4. **自适应学习**\n      - 根据用户的使用习惯和偏好，自动调整生成的代码风格和结构。\n    5. **集成开发环境（IDE）插件**\n      - 提供与主流IDE的无缝集成，方便用户在熟悉的环境中使用。\n    6. **丰富的API支持**\n      - 提供丰富的API接口，用户可以灵活调用和扩展功能。\n    7. **社区共享功能**\n      - 用户可以共享自己的代码片段和项目，促进社区的交流与合作。\n[2025-11-10T03:58:44Z] 史宏涛:\n    自然语言一键完整全栈开发配置、上线、支付集成\n[2025-11-10T03:58:45Z] 秘圣淼:\n    \u003cp\u003e基于BrowserUse的前端测试（这我是真想要，现在所有的后端都可以让trae写pytest单测，前端还真就得我一个个点）\u003c/p\u003e\n[2025-11-10T03:58:59Z] 史宏涛:\n    多智能体管理\n[2025-11-10T03:59:18Z] 彭超:\n    solo coder\n[2025-11-10T03:59:31Z] you:\n    融合超级智能体\n[2025-11-10T03:59:35Z] 翟西强:\n    多智能体协同，一键前后端全栈开发部署\n[2025-11-10T04:00:12Z] 钱巍:\n    零代码开发\n[2025-11-10T04:00:12Z] 彭超:\n    可以在solo一下一站式解决所有问题的\n[2025-11-10T04:00:34Z] 秘圣淼:\n    \u003cp\u003e多Agent并行操作\u003c/p\u003e\u003cp\u003e（Trae一直在做Agent管理，但是似乎没有推出过多agent功能，我觉得可能会在这个solo里发布）\u003c/p\u003e\n[2025-11-10T04:01:44Z] 丁瑞:\n    无需打断工作流程直接添加新的指令\n[2025-11-10T04:02:53Z] 张博思:\n    sub-agent\n[2025-11-10T04:06:22Z] Gabriel:\n    多模型协同，根据任务类型或用户指示，选择最适合的模型执行任务，在一次会话中可能调用高达5（10?）种不同的大模型！\n[2025-11-10T04:11:01Z] 李东阳:\n    @彭超 early access选手叉出去[新月脸]\n[2025-11-10T04:11:28Z] Jiaqi:\n    1. 增强的代码上下文理解\n    - 能够更深入地理解整个代码库的结构和依赖关系\n    - 跨文件引用追踪更加精准，支持大型项目的全面分析\n    2. 实时协作编程\n    - 提供更流畅的实时代码编辑体验\n    - 支持多人同时协作开发，带有冲突解决建议\n    3. 智能代码生成与补全\n    - 基于项目历史和最佳实践生成高质量代码\n    - 智能预测开发者意图，提供上下文相关的代码补全\n    4. 自动化调试与优化\n    - 自动识别潜在的代码问题和性能瓶颈\n    - 提供具体的优化建议和修复方案\n    5. 多语言与框架支持\n    - 扩展对更多编程语言和流行框架的支持\n    - 提供框架特定的最佳实践和模式建议\n    6. 可视化开发辅助\n    - 提供代码结构的可视化表示\n    - 通过图表和流程图帮助理解复杂逻辑\n    7. 学习与适应能力\n    - 从用户反馈中学习，不断改进建议质量\n    - 适应用户的编码风格和偏好\n    8. 集成开发工作流\n    - 与常用开发工具和CI/CD流程的深度集成\n    - 提供无缝的开发体验\n[2025-11-10T04:11:30Z] Gabriel:\n    真·会话内存管理。现在尝鲜版推出了基于Markdown文件的模拟内存管理。但SOLO正式版我感觉会出真实版本内存管理，基于mem0的关键信息防遗忘管理，上下文压缩，长短期记忆管理……应该能让开发有效性大幅提升！\n[2025-11-10T04:12:58Z] 李世博:\n    \u003cp\u003e1、上下文处理更优～\u003c/p\u003e\u003cp\u003e2、猜测一下，可能会出现可以手动画流程图、架构图或者各种草图，然后进行生成代码（类似无代码平台）\u003c/p\u003e\u003cp\u003e3、多 Agent 角色管理，实现同时开发前后端等\u003c/p\u003e\u003cp\u003e4、记住用户技术栈选择等喜好，优化技术栈并且可以推荐更加的技术栈\u003c/p\u003e\u003cp\u003e5、跨平台部署，可能会和火山联动，然后实现在火山上直接部署[看]\u003c/p\u003e\u003cp\u003e6、自动审查代码，看是否有安全漏洞等地方\u003c/p\u003e\u003cp\u003e7、可以配置 MCP，或者集成了多个 MCP，让开发更高效\u003c/p\u003e\u003cp\u003e8、在大模型 API 集成 新增  豆包大模型，然后支付 新增 国产支付平台的集成（有可能是友商的，我觉得也有可能说不好是抖音[看]纯猜测）\u003c/p\u003e\u003cp\u003e9、可以自己选模型？或者是内定了一个模型（我觉得模型有可能会有一个能力的提升[看]）\u003c/p\u003e\n[2025-11-10T04:15:42Z] 孙振刚:\n    1支持n8n流程部署，2.支持多agent并行\n[2025-11-10T04:19:42Z] 刘文溢:\n    支持免SOLO Code使用。\n[2025-11-10T04:23:05Z] 彭超:\n    @李东阳 我已经看到了未来\n[2025-11-10T04:28:06Z] 漫川:\n    全流程自动化开发（从需求到部署的端到端交付），具体包括：\n    \n    1. 用自然语言/语音输入需求，AI自动生成PRD文档、拆解任务并完成代码编写（跨文件/技术栈）；\n    \n    2. 自动调试代码、修复错误（比如实时解决前后端参数不匹配）；\n    \n    3. 一键部署到云平台（像Vercel/Cloudflare），直接生成可访问的应用链接；\n    \n    4. 多模态交互（比如上传Figma设计稿自动转前端代码，语音指令修改代码）。\n[2025-11-10T04:28:25Z] 何浩瀚:\n    指名模型进行solo[看]\n[2025-11-10T04:28:57Z] 刘金良:\n    1. solo builder 支持mcp， 2. 增加plugin 致辞。3.  规则像.cursor rule的方式靠近\n[2025-11-10T04:42:52Z] you:\n    solocode的计费方式会发生改变\n[2025-11-10T04:52:13Z] cici:\n    多agent并行处理，自动调试代码，更多的查看已有框架代码处理上下文\n[2025-11-10T04:56:35Z] 徐潇倩:\n    团队协同开发\n[2025-11-10T04:58:37Z] 刘文溢:\n    @cici 多Agent功能早就有了呀，难道你没发现？\n[2025-11-10T05:00:04Z] cici:\n    @刘文溢 不一样的，是8个智能体同时干活，选一个干的干的继续，消耗8份费用\n[2025-11-10T05:08:03Z] 安平静:\n    是不是有这些内容：\n    1.增加模型思考深度，减少人工干预；明确告知思考次数上限；优化提示策略；减少出现\"模型思考次数已达上限的提示；\n    2.进度提示音、消息推送或可视化进度条；\n[2025-11-10T05:12:23Z] 张海洋:\n    sub-agent\n[2025-11-10T05:14:41Z] 李幸:\n    \u003cp\u003e盲测一波[送你小红花]\u003c/p\u003e\u003cp\u003e1.智能协作矩阵\tIntelligent Collaboration Matrix\t实现多AI代理间的智能协作，支持任务分工、结果整合和冲突解决\t提升复杂项目的处理效率，实现1+1\u003e2的协作效果\u003c/p\u003e\u003cp\u003e2.代码洞察引擎\tCode Insight Engine\t深度理解代码逻辑、架构模式和最佳实践，提供智能代码生成建议\t显著提高代码质量和开发速度，减少重复性工作\u003c/p\u003e\u003cp\u003e3.架构规划师\tArchitecture Planner\t智能分析项目需求，推荐最优架构方案和技术栈选择\t帮助开发者做出更好的技术决策，降低项目风险\u003c/p\u003e\u003cp\u003e4.智能诊断医生\tSmart Diagnostics Doctor\t快速定位代码问题，提供修复建议和性能优化方案\t大幅缩短调试时间，提升代码稳定性和性能\u003c/p\u003e\u003cp\u003e5.上下文感知大脑\tContext-Aware Brain\t全面理解项目上下文，包括业务逻辑、技术约束和开发历史\t提供更精准、更贴合实际需求的智能建议\u003c/p\u003e\u003cp\u003e6.记忆存储库\tMemory Repository\t智能存储和读取对话历史、任务状态和项目上下文，实现跨会话连续性\t让AI记住交互与项目状态，提供更连贯、个性化的服务\u003c/p\u003e\u003cp\u003e7.项目复盘专家\tProject Retrospection Expert\t自动生成详细的项目开发过程报告，涵盖关键决策点、踩坑记录与最佳实践\t帮助团队沉淀经验，优化未来开发流程与质量\u003c/p\u003e\u003cp\u003e8.项目测试助手  可以自动单点测试或一键回归测试；\u003c/p\u003e\u003cp\u003e9.大模型管理功能  可以自由选择大模型搭配处理不同任务；\u003c/p\u003e\u003cp\u003e10.项目文件自动分离  测试文件或临时文件放一个文件夹，项目完结以后可以直接删除，主要文件和辅助文件分离，方便用户清理项目冗余；\u003c/p\u003e\u003cp\u003e11.冗余自动回收箱   可以自动回收项目中产生的各种无效文件，测试文件，保持项目简洁；\u003c/p\u003e\n[2025-11-10T05:31:42Z] NICK:\n    666\n[2025-11-10T05:32:01Z] NICK:\n    期待中。。。\n[2025-11-10T05:36:33Z] 李浩瑞:\n    1.  并行Agent能力，多branch分支合作互相合并  2. 更加优化的全自动Agent能力，自动测试和调试 3. 团队间vibe coding合作能力\n[2025-11-10T05:43:15Z] 许雅琳:\n    1，自动理解项目上下文\n    2，多工具协同工作（自动切换 IDE / Terminal / Browser / Doc）\n[2025-11-10T05:49:13Z] 冯梦龙:\n    1、自选 AI 模型\n    2、自动化测试网页功能\n    3、前端 UI 设计模块化根据用户指定自动根据需要优化部分内容调整\n    4、\n[2025-11-10T05:49:24Z] 董正翔:\n    1. 任务队列增强，TODO列表的执行准确度提高\n    2. tool能力增强，准确调用tool\n    3. 多Agent并行，同时执行多个任务，或者自动拆分成多个子任务分配给多Agent并行\n    4. 响应式Agent，用户实时反馈的功能增强，可以及时修正AI的coding方向\n[2025-11-10T06:06:02Z] 李远航:\n    1.多智能体协同。\n    2.一键前后端全栈开发部署。\n    3.多Agent多线程处理任务，提高效率。\n[2025-11-10T06:19:11Z] 刘文昌:\n    超强多agent联合工作\n    例如，输入需求\n    需求专家进行分析\n    UI专家进行UI设计\n    代码进行编辑\n    进行测试，测试完后会删除测试用例\n    如果遇到错误，代码会一直回滚，直到完成编辑\n    最后会有list专家把全部都检查一遍，保证没有错误\n[2025-11-10T06:25:40Z] 贾栾:\n    大概率会对内测时的一些问题做优化：\n    1、支持多种模型选择；\n    2、对上下文长度做优化，或者支持选择不同长度上下文（类似Max模式）；\n    3、一些辅助配置：如支持指定开发语言、开发框架、功能样式等。\n    4、辅助用户需求细化：\n    - 支持按步骤开发，类似扣子的AI应用搭建，从需求到编码分步执行，更有效。\n    - 臆想一下：可以根据需求生成预览效果（大概率只是前端），由用户确认后进行微调。\n    5、开放一些标准功能模块供用户选择集成：如用户登录注册模块、数据列表模块、支付模块、短信邮件模块等。\n[2025-11-10T07:19:46Z] yy:\n    BUG大量修复，更多的AI模型，SOLO无需资格全都可使用，\n[2025-11-10T07:44:39Z] 动物园园长:\n    项目记忆：能够基于项目结构及历史对话生成一份文档独立于user rules/project rules 且随着对话不断完善该记忆文档\n[2025-11-10T07:54:08Z] 苏州-计算机-雾烈:\n    跨文件重构”与“巨型仓库内补全”，50 万行规模项目可一次改 10+ 文件并保持风格一致\n[2025-11-10T07:54:41Z] 梦醒未醒:\n    1、多文件一致性编辑：一次指令生成跨文件补丁，自动维护引用、导入、类型迁移与依赖更新，避免只修一处的偏差。\n    2、实时全局检索与符号地图：跨语言、跨目录的语义检索；调用/被调用关系、使用点、类型来源一键可视化。\n    3、错误复现与自修循环：抓取运行日志/堆栈后自动生成复现命令，给出最小修复补丁并回归验证，形成“Run→Fix→Re-run”闭环。\n[2025-11-10T07:57:17Z] 朱洪涛(朱通):\n    1、一键创建项目\n    2、一键打包、部署、支持CI/CD\n    3、一键优化、一键注释\n[2025-11-10T07:58:10Z] 吴彬:\n    项目私有wiki\n[2025-11-10T08:35:00Z] 林凯:\n    需求、设计、测试、部署全流程完成功能，多agent 全流程协作\n[2025-11-10T08:37:00Z] 韦舒松:\n    1、任务粒度更细\n    2、模型运行时可中断纠正\n[2025-11-10T09:15:43Z] 鱼得水:\n    **🎯 核心更新预测：SOLO 2.0 - 真正的响应式编程代理**\n    **1. 响应式多模态编程引擎**\n    **预测依据**：海报标题 \"Responsive Coding Agent\" 和中间的六边形多模态界面\n    - **智能感知开发状态**：实时监测代码编辑、浏览器预览、终端输出等多维度信息\n    - **自适应工具调度**：根据开发阶段自动切换最合适的工具面板（编辑器→浏览器→终端→文档）\n    - **上下文连续性**：跨工具保持开发上下文，避免重复操作\n    **2. 任务驱动的智能开发流程**\n    **预测依据**：海报右侧任务管理界面显示 \"Completed/In progress/Waiting for action\"\n    - **AI 任务拆解**：将复杂需求自动分解为可执行的开发任务\n    - **进度可视化追踪**：实时显示每个任务的完成状态和依赖关系\n    - **智能优先级调整**：根据代码变更自动调整后续开发任务优先级\n    **3. 全栈响应式开发套件**\n    **预测依据**：海报左侧代码编辑器显示响应式代码输出\n    - **响应式布局智能生成**：支持移动端、平板、桌面端自适应代码生成\n    - **跨端兼容性自动检测**：实时检查不同设备和浏览器的兼容性问题\n    - **性能优化建议**：自动识别并优化响应式设计中的性能瓶颈\n    **4. 增强型多模态交互能力**\n    **预测依据**：海报中间六边形包含代码、图像、地球等多种图标\n    - **语音驱动开发**：支持自然语言语音输入生成代码\n    - **图像智能理解**：上传设计稿自动生成响应式 HTML/CSS 代码\n    - **文档自动关联**：自动检索相关技术文档和最佳实践\n    **5. 团队协作响应式升级**\n    **预测依据**：市场趋势显示团队协作是重要发展方向\n    - **实时多人协作**：支持多开发者同时编辑，AI 自动协调代码冲突\n    - **开发进度同步**：团队成员实时共享开发进度和任务状态\n    - **代码评审智能化**：AI 辅助代码评审，自动识别潜在问题\n    **6. 云原生响应式部署**\n    **预测依据**：当前 AI 编程工具都在强化云原生集成\n    - **一键响应式部署**：自动配置 CDN、负载均衡等基础设施\n    - **多环境适配**：开发、测试、生产环境一键切换\n    - **资源自动扩缩容**：根据访问量自动调整云资源配置\n    **🚀 技术创新亮点**\n    **响应式 AI Agent 架构**\n    - **事件驱动的智能体**：基于开发事件自动触发 AI 辅助\n    - **预测性代码补全**：根据上下文预测开发者下一步需求\n    - **自适应学习**：持续学习用户编码习惯和项目规范\n    **多模态上下文融合**\n    - **跨模态理解**：同时处理代码、自然语言、图像等多种输入\n    - **全局上下文感知**：理解整个项目结构而非单一文件\n    - **历史记忆机制**：记住之前的开发决策和偏好\n    **📊 市场定位升级**\n    从海报和市场趋势来看，Trae Solo 这次更新将：\n    - **从工具向伙伴升级**：更智能的交互体验\n    - **从个人向团队扩展**：强化协作能力\n    - **从编码向全流程覆盖**：从需求到部署的完整开发链路\n    **💡 竞争优势分析**\n    相比当前主流 AI 编程工具：\n    - **更专注响应式开发**：针对现代 Web 开发的核心需求\n    - **更智能的任务管理**：AI 驱动的开发流程优化\n    - **更自然的多模态交互**：降低技术门槛，提升开发体验\n\u003c/forwarded_messages\u003e",
+        "create_time": "2025-11-10 11:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1714",
+        "message_id": "om_x100b5e28d990e43c0f4c755628c3116",
+        "message_position": "1714",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_49a43b1d7d9d39c12549005616e1a46f",
+          "id_type": "open_id",
+          "name": "NICK",
+          "sender_type": "user",
+          "tenant_key": "2c90ba82a4cd175f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有大佬在吗",
+        "create_time": "2025-11-10 11:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1715",
+        "message_id": "om_x100b5e28ee976e0c0e3ecb6a1e1deb5",
+        "message_position": "1715",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1b4281526b00cb48ebca356db0c40db0",
+          "id_type": "open_id",
+          "name": "用户768110",
+          "sender_i18n_names": {
+            "zh_cn": "哦润几"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a740c0e4fd55758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cforwarded_messages\u003e\n[2025-11-10T11:34:47Z] 杜昔月:\n    @所有人** 📢 模型上新｜TRAE CN 内置模型新增【MiniMax-M2】**\n    **上线范围：**TRAE CN 版\n    **能力支持：**推理模型，无图片理解\n    ![Image](img_v3_02rt_cf3bd245-43c2-4734-96cc-9e24dca8785g)\n[2025-11-10T11:35:02Z] Morgan:\n    66666666\n[2025-11-10T11:35:46Z] 刘金良:\n    国产模型除了豆包都不支持图片理解、这个确实是硬伤啊\n[2025-11-10T11:37:43Z] 沃金:\n    小菠办事，当个事办！[赞]\n[2025-11-10T11:39:19Z] 陈勇（平台技术部）:\n    海外为啥没有\n[2025-11-10T11:39:52Z] 杜昔月:\n    @陈勇（平台技术部） 海外当前可以先自定义接入\n[2025-11-10T11:44:07Z] 严顺文:\n    不是不支持。是走的路线不一样 国内厂家基本是 先分后合。\n\u003c/forwarded_messages\u003e",
+        "create_time": "2025-11-10 12:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1716",
+        "message_id": "om_x100b5e29af61340c0f1f25a963b7bee",
+        "message_position": "1716",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_932bd2c58daaffceb153a0a290c7cc7a",
+          "id_type": "open_id",
+          "name": "杜昔月",
+          "sender_i18n_names": {
+            "en_us": "Isabella Du",
+            "zh_cn": "杜昔月"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "1",
+        "create_time": "2025-11-10 12:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1717",
+        "message_id": "om_x100b5e29abbc7d8c0f30ce9b414cbbf",
+        "message_position": "1717",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "哥哥们，你们知不知道在哪里可以下载免费unity的角色模型啊",
+        "create_time": "2025-11-11 08:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1719",
+        "message_id": "om_x100b5e1b7f367c780f4bee4affdcd7f",
+        "message_position": "1719",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1b4281526b00cb48ebca356db0c40db0",
+          "id_type": "open_id",
+          "name": "用户768110",
+          "sender_i18n_names": {
+            "zh_cn": "哦润几"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a740c0e4fd55758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "商城啊",
+        "create_time": "2025-11-11 08:26",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1720",
+        "message_id": "om_x100b5e1b7c2839000ecf7c3778eccb3",
+        "message_position": "1720",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_03acc470fc2e77d921a1c7b90df1c34a",
+          "id_type": "open_id",
+          "name": "Morgan",
+          "sender_i18n_names": {
+            "zh_cn": "Morgan11zzZ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bf988a4b744d740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02ru_4bbd9379-80fd-48e4-b5e7-0009f3478e3g]",
+        "create_time": "2025-11-11 09:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1722",
+        "message_id": "om_x100b5e1b8d98d6a40f47cada2246cdf",
+        "message_position": "1722",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9aa823d6d91464efd8f17072889056c4",
+          "id_type": "open_id",
+          "name": "ssw",
+          "sender_type": "user",
+          "tenant_key": "17b5fd3ee28c9740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02ru_0de598b5-b8bd-4fc1-bf0d-9524acb99d8g]",
+        "create_time": "2025-11-11 09:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1723",
+        "message_id": "om_x100b5e1b8da8585c0e34dd78624d3c7",
+        "message_position": "1723",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9aa823d6d91464efd8f17072889056c4",
+          "id_type": "open_id",
+          "name": "ssw",
+          "sender_type": "user",
+          "tenant_key": "17b5fd3ee28c9740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02ru_cfdf2e77-0ede-402b-8bad-a059d3a8c0bg]",
+        "create_time": "2025-11-11 09:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1724",
+        "message_id": "om_x100b5e1b8dbe6ce00f42255ced1c799",
+        "message_position": "1724",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9aa823d6d91464efd8f17072889056c4",
+          "id_type": "open_id",
+          "name": "ssw",
+          "sender_type": "user",
+          "tenant_key": "17b5fd3ee28c9740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有在江苏南京或者周边的伙伴吗？我用TRAE工具一个人开发了一款2D横版海战游戏，深海利刃，在摩点上众筹的网址是：https://m.modian.com/idea/11457.html。如果对这款游戏感兴趣，可以联系哦，我想把这款游戏进一步完善，要上蒸汽平台和苹果APP，我在南京，有兴趣的伙伴可以见面沟通交流。微信：wjxzbd007，加的时候注明游戏即可。",
+        "create_time": "2025-11-11 09:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1725",
+        "message_id": "om_x100b5e1b8db141e00f39affae877030",
+        "message_position": "1725",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9aa823d6d91464efd8f17072889056c4",
+          "id_type": "open_id",
+          "name": "ssw",
+          "sender_type": "user",
+          "tenant_key": "17b5fd3ee28c9740"
+        },
+        "update_time": "2025-11-11 09:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02ru_283fc417-b1fc-4d54-a92c-1fdf0dcc4f0g]",
+        "create_time": "2025-11-11 09:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1726",
+        "message_id": "om_x100b5e1b8d4d17600e35939521b98f5",
+        "message_position": "1726",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9aa823d6d91464efd8f17072889056c4",
+          "id_type": "open_id",
+          "name": "ssw",
+          "sender_type": "user",
+          "tenant_key": "17b5fd3ee28c9740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02ru_431ed692-58dd-47e9-ad61-dd579947486g]",
+        "create_time": "2025-11-11 09:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1727",
+        "message_id": "om_x100b5e1b8d433e900f369d05ce60f3c",
+        "message_position": "1727",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_9aa823d6d91464efd8f17072889056c4",
+          "id_type": "open_id",
+          "name": "ssw",
+          "sender_type": "user",
+          "tenant_key": "17b5fd3ee28c9740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02ru_55fbcb3e-f962-4707-b3ac-664e199c3cag]",
+        "create_time": "2025-11-11 09:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1728",
+        "message_id": "om_x100b5e1b89ce009c0f2f7a15b58d72c",
+        "message_position": "1728",
+        "msg_type": "image",
+        "reply_to": "om_x100b5e1b7f367c780f4bee4affdcd7f",
+        "sender": {
+          "id": "ou_9739b32b49bfbf836cd3f4a72e2427cd",
+          "id_type": "open_id",
+          "name": "Alen",
+          "sender_type": "user",
+          "tenant_key": "1749623baf81975d"
+        },
+        "update_time": "2025-11-11 09:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "朋友推荐 模之屋  https://www.aplaybox.com",
+        "create_time": "2025-11-11 09:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1729",
+        "message_id": "om_x100b5e1ba0cbc7180ec4a24d8be4298",
+        "message_position": "1729",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9739b32b49bfbf836cd3f4a72e2427cd",
+          "id_type": "open_id",
+          "name": "Alen",
+          "sender_type": "user",
+          "tenant_key": "1749623baf81975d"
+        },
+        "update_time": "2025-11-11 09:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "这个网站不错👍",
+        "create_time": "2025-11-11 09:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1730",
+        "message_id": "om_x100b5e1bbe729c380f1405dda807683",
+        "message_position": "1730",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "看来有选择就有选分类，有分类就有出路",
+        "create_time": "2025-11-11 09:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1731",
+        "message_id": "om_x100b5e1bbb288e780ec328bdc52cb60",
+        "message_position": "1731",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@ssw 你那个在摩点众筹到多少钱了？我也想试试[送心]",
+        "create_time": "2025-11-11 10:26",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_9aa823d6d91464efd8f17072889056c4",
+            "key": "@_user_1",
+            "name": "ssw"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1732",
+        "message_id": "om_x100b5e04b86114680f19a2228fb15b1",
+        "message_position": "1732",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+          "id_type": "open_id",
+          "name": "李剑",
+          "sender_i18n_names": {
+            "zh_cn": "独游"
+          },
+          "sender_type": "user",
+          "tenant_key": "1b8a27a9674a975d"
+        },
+        "update_time": "2025-11-11 10:26",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cforwarded_messages\u003e\n[2025-11-11T11:07:59Z] 李东阳:\n    @所有人 **TRAE Meetup 深圳场来啦，欢迎大家扫描下方二维码报名参加**\n    **活动时间：本周六14:00-18:00**\n    **活动地点：深圳字节工区南山区深圳湾创新科技中心B座34楼**\n    ![Image](img_v3_02ru_23d97af5-8556-492c-9e49-30765064de2g)\n\u003c/forwarded_messages\u003e",
+        "create_time": "2025-11-11 11:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1733",
+        "message_id": "om_x100b5e05ef074c200ec26eeea4d0a7e",
+        "message_position": "1733",
+        "msg_type": "merge_forward",
+        "sender": {
+          "id": "ou_9f2354084f5023b3d28a68fbe88fbb9a",
+          "id_type": "open_id",
+          "name": "李佳宁",
+          "sender_i18n_names": {
+            "en_us": "Jenny Li",
+            "zh_cn": "李佳宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "大家都会到吗？我也想参加哈哈",
+        "create_time": "2025-11-11 11:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1734",
+        "message_id": "om_x100b5e05ec4ca02c0e3e826fd4cd57a",
+        "message_position": "1734",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9f2354084f5023b3d28a68fbe88fbb9a",
+          "id_type": "open_id",
+          "name": "李佳宁",
+          "sender_i18n_names": {
+            "en_us": "Jenny Li",
+            "zh_cn": "李佳宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "https://mp.weixin.qq.com/s/Z4czLwdopSXJMzEJ5uD73g",
+        "create_time": "2025-11-12 03:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1735",
+        "message_id": "om_x100b5e7464beb8980f46ddf26f324f4",
+        "message_position": "1735",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "Trae里面哪个模型更适合开发联网游戏，前后端全栈的那种？本来一直用deepseak，做到联网这块发现突然降智了[捂脸]",
+        "create_time": "2025-11-12 08:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1737",
+        "message_id": "om_x100b5e70dc3d45680f1e301571d79a2",
+        "message_position": "1737",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+          "id_type": "open_id",
+          "name": "李剑",
+          "sender_i18n_names": {
+            "zh_cn": "独游"
+          },
+          "sender_type": "user",
+          "tenant_key": "1b8a27a9674a975d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "gpt 5 hign o3 都挺合适",
+        "create_time": "2025-11-12 08:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1738",
+        "message_id": "om_x100b5e70eefe8cb00f28df3da000761",
+        "message_position": "1738",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_03acc470fc2e77d921a1c7b90df1c34a",
+          "id_type": "open_id",
+          "name": "Morgan",
+          "sender_i18n_names": {
+            "zh_cn": "Morgan11zzZ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bf988a4b744d740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "群里没加入用户交流群的TRAE友可以加入下参与SOLO正式版活动，有机会获取惊喜盲盒，以及其他豪华奖励可获取~\n入群链接：点击https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=41el3ebc-80ab-4efb-9c6a-ac239e1e83e8加入吧！\nhttps://applink.feishu.cn/client/message/link/open?token=Amj2CzqUGAADaRRQ9a%2FTwAE%3D",
+        "create_time": "2025-11-12 09:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1739",
+        "message_id": "om_x100b5e715128dee00f415faa225ec43",
+        "message_position": "1739",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "哪个前端js库做网页游戏牛逼的",
+        "create_time": "2025-11-12 09:40",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1740",
+        "message_id": "om_x100b5e711150f4fc0f12a451d6a7ce3",
+        "message_position": "1740",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f330e7c964da792cee291e3abd6d0811",
+          "id_type": "open_id",
+          "name": "韦舒松",
+          "sender_type": "user",
+          "tenant_key": "2d51aa38a2cf175e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "canvas相关那种",
+        "create_time": "2025-11-12 09:40",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1741",
+        "message_id": "om_x100b5e712c8a513c0ec9bad47c5e437",
+        "message_position": "1741",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f330e7c964da792cee291e3abd6d0811",
+          "id_type": "open_id",
+          "name": "韦舒松",
+          "sender_type": "user",
+          "tenant_key": "2d51aa38a2cf175e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "用pixijs试试水",
+        "create_time": "2025-11-12 09:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1742",
+        "message_id": "om_x100b5e71d009d47c0f23e4f2e324722",
+        "message_position": "1742",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f330e7c964da792cee291e3abd6d0811",
+          "id_type": "open_id",
+          "name": "韦舒松",
+          "sender_type": "user",
+          "tenant_key": "2d51aa38a2cf175e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "canvas怎么调试、C N版本生成的全都点击启动没反应[捂脸]",
+        "create_time": "2025-11-12 10:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1743",
+        "message_id": "om_x100b5e722a4fd0a0c4ccacc61a36472",
+        "message_position": "1743",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_caf34634e670c42ada48e7f803aeb048",
+          "id_type": "open_id",
+          "name": "刘金良",
+          "sender_type": "user",
+          "tenant_key": "2cd1e11d46cf575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02s0_b0f93306-59b5-4336-844f-61b6fe02cc0g]",
+        "create_time": "2025-11-13 02:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1747",
+        "message_id": "om_x100b5e60438848880f27839878b04de",
+        "message_position": "1747",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_f3c0c7d511eb21391fc0f636fede27bc",
+          "id_type": "open_id",
+          "name": "郑铠聪",
+          "sender_i18n_names": {
+            "zh_cn": "kaicong"
+          },
+          "sender_type": "user",
+          "tenant_key": "1589bb39aa9c575f"
+        },
+        "update_time": "2025-11-13 02:22",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "https://mp.weixin.qq.com/s/3Yx1-FLRag2ah-RotZyAsA",
+        "create_time": "2025-11-14 04:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1748",
+        "message_id": "om_x100b5e5efc7624b00e3049192fdd2b7",
+        "message_position": "1748",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "4cXSlmN7uFAnWWU5yfIGML-w2iPHHgZLgG7LGMZp8bVxTJ2Gk3l0kRkJ5HR99Uf30fdikCsqP6FtBhATN01zjnrJx2AcKbUj0Ya4IPOyZtd0vBt09Ml8MVKhu9YDy3Vm",
+    "total": 36
+  },
+  "meta": {
+    "pagination": {
+      "complete": false,
+      "pages": 1,
+      "items": 36,
+      "next_token": "4cXSlmN7uFAnWWU5yfIGML-w2iPHHgZLgG7LGMZp8bVxTJ2Gk3l0kRkJ5HR99Uf30fdikCsqP6FtBhATN01zjnrJx2AcKbUj0Ya4IPOyZtd0vBt09Ml8MVKhu9YDy3Vm"
+    }
+  }
+}

@@ -1,0 +1,1007 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": true,
+    "messages": [
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "先占个坑，哈哈",
+        "create_time": "2025-11-03 07:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1400",
+        "message_id": "om_x100b5fb18ea13c780e3be2932259b3c",
+        "message_position": "1400",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9f2354084f5023b3d28a68fbe88fbb9a",
+          "id_type": "open_id",
+          "name": "李佳宁",
+          "sender_i18n_names": {
+            "en_us": "Jenny Li",
+            "zh_cn": "李佳宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "大佬",
+        "create_time": "2025-11-03 07:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1401",
+        "message_id": "om_x100b5fb18d2d39880f4138f7f846a53",
+        "message_position": "1401",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_530a1c7bd08379a5884c2cdf8c2f4dcc",
+          "id_type": "open_id",
+          "name": "用户030912",
+          "sender_type": "user",
+          "tenant_key": "1b88717cd7e8d758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不要忘记我 谢谢😊",
+        "create_time": "2025-11-03 07:40",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1402",
+        "message_id": "om_x100b5fb188dd0ce80e32b08ef954073",
+        "message_position": "1402",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "只能在这里支持了，我7点多时候，还在坐地铁，😅",
+        "create_time": "2025-11-03 07:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1403",
+        "message_id": "om_x100b5fb18709bc280f188efb5412e07",
+        "message_position": "1403",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_caf34634e670c42ada48e7f803aeb048",
+          "id_type": "open_id",
+          "name": "刘金良",
+          "sender_type": "user",
+          "tenant_key": "2cd1e11d46cf575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@李东阳 官方分享啊，好奇礼物是啥",
+        "create_time": "2025-11-03 07:41",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_0396a5c6b4782df5bc1693e5486da1f7",
+            "key": "@_user_1",
+            "name": "李东阳"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1404",
+        "message_id": "om_x100b5fb18427a1980e31d3c76d4b402",
+        "message_position": "1404",
+        "msg_type": "text",
+        "reply_to": "om_x100b5fb1f07b4cf40f3687baeee3301",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "update_time": "2025-11-03 07:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@刘金良 当LPL直播看就行了",
+        "create_time": "2025-11-03 07:41",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_caf34634e670c42ada48e7f803aeb048",
+            "key": "@_user_1",
+            "name": "刘金良"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1405",
+        "message_id": "om_x100b5fb18585a1bc0f3d262e7e9a4ff",
+        "message_position": "1405",
+        "msg_type": "text",
+        "reply_to": "om_x100b5fb18709bc280f188efb5412e07",
+        "sender": {
+          "id": "ou_9f2354084f5023b3d28a68fbe88fbb9a",
+          "id_type": "open_id",
+          "name": "李佳宁",
+          "sender_i18n_names": {
+            "en_us": "Jenny Li",
+            "zh_cn": "李佳宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2025-11-03 07:41",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "要去哪里啊 线上能看吗",
+        "create_time": "2025-11-03 07:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1406",
+        "message_id": "om_x100b5fb182cb24cc0f14118eb1e1770",
+        "message_position": "1406",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_587b97fdc71701ed72934d8fae0b8cbc",
+          "id_type": "open_id",
+          "name": "曹翔",
+          "sender_i18n_names": {
+            "en_us": "cc",
+            "zh_cn": "cc"
+          },
+          "sender_type": "user",
+          "tenant_key": "1484e1b221425740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "等着换手机呢，苹果手机，在地铁上，信号不好，😅",
+        "create_time": "2025-11-03 07:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1407",
+        "message_id": "om_x100b5fb183e592840f24cf5495ac4eb",
+        "message_position": "1407",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_caf34634e670c42ada48e7f803aeb048",
+          "id_type": "open_id",
+          "name": "刘金良",
+          "sender_type": "user",
+          "tenant_key": "2cd1e11d46cf575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@曹翔 可以的，飞书会议",
+        "create_time": "2025-11-03 07:44",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_587b97fdc71701ed72934d8fae0b8cbc",
+            "key": "@_user_1",
+            "name": "曹翔"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1408",
+        "message_id": "om_x100b5fb199ad348c0f28beeb82a2ab5",
+        "message_position": "1408",
+        "msg_type": "text",
+        "reply_to": "om_x100b5fb182cb24cc0f14118eb1e1770",
+        "sender": {
+          "id": "ou_0396a5c6b4782df5bc1693e5486da1f7",
+          "id_type": "open_id",
+          "name": "李东阳",
+          "sender_i18n_names": {
+            "en_us": "Dongyang Li",
+            "zh_cn": "李东阳"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "update_time": "2025-11-03 07:44",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cp\u003etrae能接入第三方游戏开发引擎吗？比如COCOS、UNITY\u003c/p\u003e",
+        "create_time": "2025-11-03 08:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1410",
+        "message_id": "om_x100b5fb2962079900f1b79ff12bfb6c",
+        "message_position": "1410",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+          "id_type": "open_id",
+          "name": "李剑",
+          "sender_i18n_names": {
+            "zh_cn": "独游"
+          },
+          "sender_type": "user",
+          "tenant_key": "1b8a27a9674a975d"
+        },
+        "update_time": "2025-11-03 08:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "trae哦",
+        "create_time": "2025-11-03 08:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1411",
+        "message_id": "om_x100b5fb2974bcc080e382a24eb18af3",
+        "message_position": "1411",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "可以",
+        "create_time": "2025-11-03 08:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1413",
+        "message_id": "om_x100b5fb295a4b0b40f44428b1ba6556",
+        "message_position": "1413",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "打错了哈[泣不成声]",
+        "create_time": "2025-11-03 08:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1414",
+        "message_id": "om_x100b5fb292b16d180f183cc0fb14254",
+        "message_position": "1414",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+          "id_type": "open_id",
+          "name": "李剑",
+          "sender_i18n_names": {
+            "zh_cn": "独游"
+          },
+          "sender_type": "user",
+          "tenant_key": "1b8a27a9674a975d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@李剑 能够辅助写代码场景啥的",
+        "create_time": "2025-11-03 08:54",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+            "key": "@_user_1",
+            "name": "李剑"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1415",
+        "message_id": "om_x100b5fb293ceecd80e3b19018e456ec",
+        "message_position": "1415",
+        "msg_type": "text",
+        "reply_to": "om_x100b5fb2962079900f1b79ff12bfb6c",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "update_time": "2025-11-03 08:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "COCOS/unity都支持编辑器api",
+        "create_time": "2025-11-03 08:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1416",
+        "message_id": "om_x100b5fb293942ecc0f3799ec74e5032",
+        "message_position": "1416",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@李剑 接了没用",
+        "create_time": "2025-11-03 08:54",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+            "key": "@_user_1",
+            "name": "李剑"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1417",
+        "message_id": "om_x100b5fb2931de8a40ec7a8bb17f3d66",
+        "message_position": "1417",
+        "msg_type": "text",
+        "reply_to": "om_x100b5fb2962079900f1b79ff12bfb6c",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "update_time": "2025-11-03 08:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我感觉现阶段他只能通过你的ts或者js去判断或者说猜测",
+        "create_time": "2025-11-03 08:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1418",
+        "message_id": "om_x100b5fb2aeac559c0f233b653b766e7",
+        "message_position": "1418",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "你的预制体和场景里有什么",
+        "create_time": "2025-11-03 08:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1419",
+        "message_id": "om_x100b5fb2ac86d5780f1460f877dacf0",
+        "message_position": "1419",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不能直接创建预制体",
+        "create_time": "2025-11-03 08:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1420",
+        "message_id": "om_x100b5fb2ac787f1c0f21905f697ca02",
+        "message_position": "1420",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "也不能直接创建场景",
+        "create_time": "2025-11-03 08:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1421",
+        "message_id": "om_x100b5fb2ad6e546c0ec4001d55abe04",
+        "message_position": "1421",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我还没接，现在是用HTML5+Physon开发",
+        "create_time": "2025-11-03 08:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1422",
+        "message_id": "om_x100b5fb2aafb6a880ec6ac42d1fdcec",
+        "message_position": "1422",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+          "id_type": "open_id",
+          "name": "李剑",
+          "sender_i18n_names": {
+            "zh_cn": "独游"
+          },
+          "sender_type": "user",
+          "tenant_key": "1b8a27a9674a975d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "还是在依赖脚本",
+        "create_time": "2025-11-03 08:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1423",
+        "message_id": "om_x100b5fb2aa4a0dd40f1359a536cb6be",
+        "message_position": "1423",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "因为不知道怎么接引擎，所以只能先开发web版",
+        "create_time": "2025-11-03 08:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1424",
+        "message_id": "om_x100b5fb2a87beab40f1e170a51110e9",
+        "message_position": "1424",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+          "id_type": "open_id",
+          "name": "李剑",
+          "sender_i18n_names": {
+            "zh_cn": "独游"
+          },
+          "sender_type": "user",
+          "tenant_key": "1b8a27a9674a975d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "什么时候他能认识和创建预制体和脚本还差不多",
+        "create_time": "2025-11-03 08:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1425",
+        "message_id": "om_x100b5fb2a82404d80ecbdd377d1dec1",
+        "message_position": "1425",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "一样的啊，你可以用代码创建场景",
+        "create_time": "2025-11-03 08:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1426",
+        "message_id": "om_x100b5fb2a6e8cde80e3ff82d78141fd",
+        "message_position": "1426",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "效果差太多了，只能纯图片",
+        "create_time": "2025-11-03 08:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1427",
+        "message_id": "om_x100b5fb2a4f641100ec9ac38b62a0d1",
+        "message_position": "1427",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d7d49aee93c3542c59b70d1e4c39a436",
+          "id_type": "open_id",
+          "name": "李剑",
+          "sender_i18n_names": {
+            "zh_cn": "独游"
+          },
+          "sender_type": "user",
+          "tenant_key": "1b8a27a9674a975d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "你想法很好，但是自己找很多麻烦",
+        "create_time": "2025-11-03 08:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1428",
+        "message_id": "om_x100b5fb2a40a76440f1d87161f9a759",
+        "message_position": "1428",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "你自己代码动态创建得预制体和节点，在回收得时候会要你自己手动释放很多东西",
+        "create_time": "2025-11-03 08:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1429",
+        "message_id": "om_x100b5fb2a10a70f00ec350f5e745dc2",
+        "message_position": "1429",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "而且由他创建出来的东西性能也办法保证",
+        "create_time": "2025-11-03 09:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1430",
+        "message_id": "om_x100b5fb2bf62d0900f16d69e908f975",
+        "message_position": "1430",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "你没有理解game场景和editor场景",
+        "create_time": "2025-11-03 09:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1431",
+        "message_id": "om_x100b5fb2bcb340780f313f6ab26d06e",
+        "message_position": "1431",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "那还不如不用编辑器",
+        "create_time": "2025-11-03 09:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1432",
+        "message_id": "om_x100b5fb2bc1b80780f135edc1be6eec",
+        "message_position": "1432",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "直接用html和js",
+        "create_time": "2025-11-03 09:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1433",
+        "message_id": "om_x100b5fb2baa662040f1d9d6e56f015f",
+        "message_position": "1433",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "你可以在editor场景下用代码生成，保存成文件，然后在游戏里就可以直接用了",
+        "create_time": "2025-11-03 09:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1434",
+        "message_id": "om_x100b5fb2ba5449d40e3d05ce13ebbee",
+        "message_position": "1434",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[\n  {\n    \"__type__\": \"cc.SceneAsset\",\n    \"_name\": \"HelloWorld\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"_native\": \"\",\n    \"scene\": {\n      \"__id__\": 1\n    }\n  },\n  {\n    \"__type__\": \"cc.Scene\",\n    \"_name\": \"HelloWorld\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"_parent\": null,\n    \"_children\": [\n      {\n        \"__id__\": 2\n      }\n    ],\n    \"_active\": true,\n    \"_components\": [],\n    \"_prefab\": {\n      \"__id__\": 19\n    },\n    \"_lpos\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0\n    },\n    \"_lrot\": {\n      \"__type__\": \"cc.Quat\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0,\n      \"w\": 1\n    },\n    \"_lscale\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 1,\n      \"y\": 1,\n      \"z\": 1\n    },\n    \"_mobility\": 0,\n    \"_layer\": 1073741824,\n    \"_euler\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0\n    },\n    \"autoReleaseAssets\": false,\n    \"_globals\": {\n      \"__id__\": 20\n    },\n    \"_id\": \"d346d36f-6c88-455a-b588-16a7d14b2e52\"\n  },\n  {\n    \"__type__\": \"cc.Node\",\n    \"_name\": \"Canvas\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"_parent\": {\n      \"__id__\": 1\n    },\n    \"_children\": [\n      {\n        \"__id__\": 3\n      },\n      {\n        \"__id__\": 5\n      },\n      {\n        \"__id__\": 8\n      },\n      {\n        \"__id__\": 12\n      }\n    ],\n    \"_active\": true,\n    \"_components\": [\n      {\n        \"__id__\": 15\n      },\n      {\n        \"__id__\": 16\n      },\n      {\n        \"__id__\": 17\n      },\n      {\n        \"__id__\": 18\n      }\n    ],\n    \"_prefab\": null,\n    \"_lpos\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 360,\n      \"y\": 640,\n      \"z\": 0\n    },\n    \"_lrot\": {\n      \"__type__\": \"cc.Quat\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0,\n      \"w\": 1\n    },\n    \"_lscale\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 1,\n      \"y\": 1,\n      \"z\": 1\n    },\n    \"_mobility\": 0,\n    \"_layer\": 33554432,\n    \"_euler\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0\n    },\n    \"_id\": \"f5XSsSG2JOX6vEiS3kUxVk\"\n  },\n  {\n    \"__type__\": \"cc.Node\",\n    \"_name\": \"Camera\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"_parent\": {\n      \"__id__\": 2\n    },\n    \"_children\": [],\n    \"_active\": true,\n    \"_components\": [\n      {\n        \"__id__\": 4\n      }\n    ],\n    \"_prefab\": null,\n    \"_lpos\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 1000\n    },\n    \"_lrot\": {\n      \"__type__\": \"cc.Quat\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0,\n      \"w\": 1\n    },\n    \"_lscale\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 1,\n      \"y\": 1,\n      \"z\": 1\n    },\n    \"_mobility\": 0,\n    \"_layer\": 1073741824,\n    \"_euler\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0\n    },\n    \"_id\": \"82b2iXeT9HPYgwgyuX95R/\"\n  },\n  {\n    \"__type__\": \"cc.Camera\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 3\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_projection\": 0,\n    \"_priority\": 1073741824,\n    \"_fov\": 45,\n    \"_fovAxis\": 0,\n    \"_orthoHeight\": 640,\n    \"_near\": 1,\n    \"_far\": 2000,\n    \"_color\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 0,\n      \"g\": 0,\n      \"b\": 0,\n      \"a\": 255\n    },\n    \"_depth\": 1,\n    \"_stencil\": 0,\n    \"_clearFlags\": 6,\n    \"_rect\": {\n      \"__type__\": \"cc.Rect\",\n      \"x\": 0,\n      \"y\": 0,\n      \"width\": 1,\n      \"height\": 1\n    },\n    \"_aperture\": 19,\n    \"_shutter\": 7,\n    \"_iso\": 0,\n    \"_screenScale\": 1,\n    \"_visibility\": 41943040,\n    \"_targetTexture\": null,\n    \"_postProcess\": null,\n    \"_usePostProcess\": false,\n    \"_cameraType\": -1,\n    \"_trackingType\": 0,\n    \"_id\": \"3aL+vdTDJGXYx+tHh4C5vv\"\n  },\n  {\n    \"__type__\": \"cc.Node\",\n    \"_name\": \"Title\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"_parent\": {\n      \"__id__\": 2\n    },\n    \"_children\": [],\n    \"_active\": true,\n    \"_components\": [\n      {\n        \"__id__\": 6\n      },\n      {\n        \"__id__\": 7\n      }\n    ],\n    \"_prefab\": null,\n    \"_lpos\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 550,\n      \"z\": 0\n    },\n    \"_lrot\": {\n      \"__type__\": \"cc.Quat\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0,\n      \"w\": 1\n    },\n    \"_lscale\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 1,\n      \"y\": 1,\n      \"z\": 1\n    },\n    \"_mobility\": 0,\n    \"_layer\": 33554432,\n    \"_euler\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0\n    },\n    \"_id\": \"a8lpK5pHNFfLaSYCWTLKRc\"\n  },\n  {\n    \"__type__\": \"cc.UITransform\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 5\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_contentSize\": {\n      \"__type__\": \"cc.Size\",\n      \"width\": 368,\n      \"height\": 166.2\n    },\n    \"_anchorPoint\": {\n      \"__type__\": \"cc.Vec2\",\n      \"x\": 0.5,\n      \"y\": 0.5\n    },\n    \"_id\": \"a6zzYwGzpBvo6G0y9be0Gw\"\n  },\n  {\n    \"__type__\": \"cc.Label\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 5\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_customMaterial\": null,\n    \"_srcBlendFactor\": 2,\n    \"_dstBlendFactor\": 4,\n    \"_color\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 255,\n      \"g\": 255,\n      \"b\": 255,\n      \"a\": 255\n    },\n    \"_string\": \"拖拽小猪图标\\n躲避追踪导弹\",\n    \"_horizontalAlign\": 1,\n    \"_verticalAlign\": 1,\n    \"_actualFontSize\": 60,\n    \"_fontSize\": 60,\n    \"_fontFamily\": \"Arial\",\n    \"_lineHeight\": 70,\n    \"_overflow\": 0,\n    \"_enableWrapText\": true,\n    \"_font\": null,\n    \"_isSystemFontUsed\": true,\n    \"_spacingX\": 0,\n    \"_isItalic\": false,\n    \"_isBold\": false,\n    \"_isUnderline\": false,\n    \"_underlineHeight\": 2,\n    \"_cacheMode\": 0,\n    \"_enableOutline\": true,\n    \"_outlineColor\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 0,\n      \"g\": 0,\n      \"b\": 0,\n      \"a\": 255\n    },\n    \"_outlineWidth\": 4,\n    \"_enableShadow\": false,\n    \"_shadowColor\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 0,\n      \"g\": 0,\n      \"b\": 0,\n      \"a\": 255\n    },\n    \"_shadowOffset\": {\n      \"__type__\": \"cc.Vec2\",\n      \"x\": 2,\n      \"y\": 2\n    },\n    \"_shadowBlur\": 2,\n    \"_id\": \"f9Mz5RLEJEDphNkrV2obz1\"\n  },\n  {\n    \"__type__\": \"cc.Node\",\n    \"_name\": \"Enemy\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"_parent\": {\n      \"__id__\": 2\n    },\n    \"_children\": [],\n    \"_active\": true,\n    \"_components\": [\n      {\n        \"__id__\": 9\n      },\n      {\n        \"__id__\": 10\n      },\n      {\n        \"__id__\": 11\n      }\n    ],\n    \"_prefab\": null,\n    \"_lpos\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 300,\n      \"z\": 0\n    },\n    \"_lrot\": {\n      \"__type__\": \"cc.Quat\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0,\n      \"w\": 1\n    },\n    \"_lscale\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 1,\n      \"y\": 1,\n      \"z\": 1\n    },\n    \"_mobility\": 0,\n    \"_layer\": 33554432,\n    \"_euler\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0\n    },\n    \"_id\": \"76W9iAiepAe6mfM9Q3HnIG\"\n  },\n  {\n    \"__type__\": \"cc.UITransform\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 8\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_contentSize\": {\n      \"__type__\": \"cc.Size\",\n      \"width\": 100,\n      \"height\": 100\n    },\n    \"_anchorPoint\": {\n      \"__type__\": \"cc.Vec2\",\n      \"x\": 0.5,\n      \"y\": 0.5\n    },\n    \"_id\": \"43K7bjBvBPm6ewje8NKAUt\"\n  },\n  {\n    \"__type__\": \"cc.Sprite\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 8\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_customMaterial\": null,\n    \"_srcBlendFactor\": 2,\n    \"_dstBlendFactor\": 4,\n    \"_color\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 255,\n      \"g\": 255,\n      \"b\": 255,\n      \"a\": 255\n    },\n    \"_spriteFrame\": {\n      \"__uuid__\": \"28f794f0-3266-45df-8c6a-8b445eadfa35@f9941\",\n      \"__expectedType__\": \"cc.SpriteFrame\"\n    },\n    \"_type\": 0,\n    \"_fillType\": 0,\n    \"_sizeMode\": 1,\n    \"_fillCenter\": {\n      \"__type__\": \"cc.Vec2\",\n      \"x\": 0,\n      \"y\": 0\n    },\n    \"_fillStart\": 0,\n    \"_fillRange\": 0,\n    \"_isTrimmedMode\": true,\n    \"_useGrayscale\": false,\n    \"_atlas\": null,\n    \"_id\": \"2a7KPSgf5CCbKvD+endwYf\"\n  },\n  {\n    \"__type__\": \"cc.Animation\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 8\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"playOnLoad\": true,\n    \"_clips\": [\n      {\n        \"__uuid__\": \"c086df66-7f01-4d86-971f-a9e6c39aa9c2\",\n        \"__expectedType__\": \"cc.AnimationClip\"\n      }\n    ],\n    \"_defaultClip\": {\n      \"__uuid__\": \"c086df66-7f01-4d86-971f-a9e6c39aa9c2\",\n      \"__expectedType__\": \"cc.AnimationClip\"\n    },\n    \"_id\": \"88dhKy7/BBcZDv8M3196Fc\"\n  },\n  {\n    \"__type__\": \"cc.Node\",\n    \"_name\": \"Hero\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"_parent\": {\n      \"__id__\": 2\n    },\n    \"_children\": [],\n    \"_active\": true,\n    \"_components\": [\n      {\n        \"__id__\": 13\n      },\n      {\n        \"__id__\": 14\n      }\n    ],\n    \"_prefab\": null,\n    \"_lpos\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": -300,\n      \"z\": 0\n    },\n    \"_lrot\": {\n      \"__type__\": \"cc.Quat\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0,\n      \"w\": 1\n    },\n    \"_lscale\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 1,\n      \"y\": 1,\n      \"z\": 1\n    },\n    \"_mobility\": 0,\n    \"_layer\": 33554432,\n    \"_euler\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 0,\n      \"z\": 0\n    },\n    \"_id\": \"ee+xm3GyFP6YNsRanQbtY/\"\n  },\n  {\n    \"__type__\": \"cc.UITransform\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 12\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_contentSize\": {\n      \"__type__\": \"cc.Size\",\n      \"width\": 100,\n      \"height\": 100\n    },\n    \"_anchorPoint\": {\n      \"__type__\": \"cc.Vec2\",\n      \"x\": 0.5,\n      \"y\": 0.5\n    },\n    \"_id\": \"83t63NaM1I5KNP/kfpzHWY\"\n  },\n  {\n    \"__type__\": \"cc.Sprite\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 12\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_customMaterial\": null,\n    \"_srcBlendFactor\": 2,\n    \"_dstBlendFactor\": 4,\n    \"_color\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 255,\n      \"g\": 255,\n      \"b\": 255,\n      \"a\": 255\n    },\n    \"_spriteFrame\": {\n      \"__uuid__\": \"bff392c7-738a-4721-9a63-b7a938ab8cf3@f9941\",\n      \"__expectedType__\": \"cc.SpriteFrame\"\n    },\n    \"_type\": 0,\n    \"_fillType\": 0,\n    \"_sizeMode\": 1,\n    \"_fillCenter\": {\n      \"__type__\": \"cc.Vec2\",\n      \"x\": 0,\n      \"y\": 0\n    },\n    \"_fillStart\": 0,\n    \"_fillRange\": 0,\n    \"_isTrimmedMode\": true,\n    \"_useGrayscale\": false,\n    \"_atlas\": null,\n    \"_id\": \"8fPvI6nBhML6bep4WcjzHI\"\n  },\n  {\n    \"__type__\": \"cc.UITransform\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 2\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_contentSize\": {\n      \"__type__\": \"cc.Size\",\n      \"width\": 720,\n      \"height\": 1280\n    },\n    \"_anchorPoint\": {\n      \"__type__\": \"cc.Vec2\",\n      \"x\": 0.5,\n      \"y\": 0.5\n    },\n    \"_id\": \"070GucJs5L0pC5cFHOBHq4\"\n  },\n  {\n    \"__type__\": \"cc.Canvas\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 2\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_cameraComponent\": {\n      \"__id__\": 4\n    },\n    \"_alignCanvasWithScreen\": true,\n    \"_id\": \"b3qunqsJ5EYLz7yADbUlVx\"\n  },\n  {\n    \"__type__\": \"cc.Widget\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 2\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"_alignFlags\": 45,\n    \"_target\": null,\n    \"_left\": 0,\n    \"_right\": 0,\n    \"_top\": 0,\n    \"_bottom\": 0,\n    \"_horizontalCenter\": 0,\n    \"_verticalCenter\": 0,\n    \"_isAbsLeft\": true,\n    \"_isAbsRight\": true,\n    \"_isAbsTop\": true,\n    \"_isAbsBottom\": true,\n    \"_isAbsHorizontalCenter\": true,\n    \"_isAbsVerticalCenter\": true,\n    \"_originalWidth\": 0,\n    \"_originalHeight\": 0,\n    \"_alignMode\": 2,\n    \"_lockFlags\": 0,\n    \"_id\": \"ee1LhG0kFBTbRMgnYjSGLC\"\n  },\n  {\n    \"__type__\": \"cd375H2Nt1DVLQwCS7uN0KU\",\n    \"_name\": \"\",\n    \"_objFlags\": 0,\n    \"__editorExtras__\": {},\n    \"node\": {\n      \"__id__\": 2\n    },\n    \"_enabled\": true,\n    \"__prefab\": null,\n    \"bulletPrefab\": {\n      \"__uuid__\": \"2bb073f5-0e70-4588-8b20-db2a4eea26d1\",\n      \"__expectedType__\": \"cc.Prefab\"\n    },\n    \"blastPrefab\": {\n      \"__uuid__\": \"dc9fc2ee-1b60-4510-9d86-51e31f1df231\",\n      \"__expectedType__\": \"cc.Prefab\"\n    },\n    \"_id\": \"35BBfoFEpM06877mA7XUUq\"\n  },\n  {\n    \"__type__\": \"cc.PrefabInfo\",\n    \"root\": null,\n    \"asset\": null,\n    \"fileId\": \"d346d36f-6c88-455a-b588-16a7d14b2e52\",\n    \"instance\": null,\n    \"targetOverrides\": null\n  },\n  {\n    \"__type__\": \"cc.SceneGlobals\",\n    \"ambient\": {\n      \"__id__\": 21\n    },\n    \"shadows\": {\n      \"__id__\": 22\n    },\n    \"_skybox\": {\n      \"__id__\": 23\n    },\n    \"fog\": {\n      \"__id__\": 24\n    },\n    \"octree\": {\n      \"__id__\": 25\n    },\n    \"skin\": {\n      \"__id__\": 26\n    },\n    \"lightProbeInfo\": {\n      \"__id__\": 27\n    },\n    \"postSettings\": {\n      \"__id__\": 28\n    },\n    \"bakedWithStationaryMainLight\": false,\n    \"bakedWithHighpLightmap\": false\n  },\n  {\n    \"__type__\": \"cc.AmbientInfo\",\n    \"_skyColorHDR\": {\n      \"__type__\": \"cc.Vec4\",\n      \"x\": 0.2,\n      \"y\": 0.5,\n      \"z\": 0.8,\n      \"w\": 0.520833125\n    },\n    \"_skyColor\": {\n      \"__type__\": \"cc.Vec4\",\n      \"x\": 0.2,\n      \"y\": 0.5,\n      \"z\": 0.8,\n      \"w\": 0.520833125\n    },\n    \"_skyIllumHDR\": 20000,\n    \"_skyIllum\": 20000,\n    \"_groundAlbedoHDR\": {\n      \"__type__\": \"cc.Vec4\",\n      \"x\": 0.2,\n      \"y\": 0.2,\n      \"z\": 0.2,\n      \"w\": 1\n    },\n    \"_groundAlbedo\": {\n      \"__type__\": \"cc.Vec4\",\n      \"x\": 0.2,\n      \"y\": 0.2,\n      \"z\": 0.2,\n      \"w\": 1\n    },\n    \"_skyColorLDR\": {\n      \"__type__\": \"cc.Vec4\",\n      \"x\": 0.452588,\n      \"y\": 0.607642,\n      \"z\": 0.755699,\n      \"w\": 0\n    },\n    \"_skyIllumLDR\": 0.8,\n    \"_groundAlbedoLDR\": {\n      \"__type__\": \"cc.Vec4\",\n      \"x\": 0.618555,\n      \"y\": 0.577848,\n      \"z\": 0.544564,\n      \"w\": 0\n    }\n  },\n  {\n    \"__type__\": \"cc.ShadowsInfo\",\n    \"_enabled\": false,\n    \"_type\": 0,\n    \"_normal\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 0,\n      \"y\": 1,\n      \"z\": 0\n    },\n    \"_distance\": 0,\n    \"_planeBias\": 1,\n    \"_shadowColor\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 76,\n      \"g\": 76,\n      \"b\": 76,\n      \"a\": 255\n    },\n    \"_maxReceived\": 4,\n    \"_size\": {\n      \"__type__\": \"cc.Vec2\",\n      \"x\": 1024,\n      \"y\": 1024\n    }\n  },\n  {\n    \"__type__\": \"cc.SkyboxInfo\",\n    \"_envLightingType\": 0,\n    \"_envmapHDR\": {\n      \"__uuid__\": \"d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0\",\n      \"__expectedType__\": \"cc.TextureCube\"\n    },\n    \"_envmap\": {\n      \"__uuid__\": \"d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0\",\n      \"__expectedType__\": \"cc.TextureCube\"\n    },\n    \"_envmapLDR\": {\n      \"__uuid__\": \"6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0\",\n      \"__expectedType__\": \"cc.TextureCube\"\n    },\n    \"_diffuseMapHDR\": null,\n    \"_diffuseMapLDR\": null,\n    \"_enabled\": true,\n    \"_useHDR\": true,\n    \"_editableMaterial\": null,\n    \"_reflectionHDR\": null,\n    \"_reflectionLDR\": null,\n    \"_rotationAngle\": 0\n  },\n  {\n    \"__type__\": \"cc.FogInfo\",\n    \"_type\": 0,\n    \"_fogColor\": {\n      \"__type__\": \"cc.Color\",\n      \"r\": 200,\n      \"g\": 200,\n      \"b\": 200,\n      \"a\": 255\n    },\n    \"_enabled\": false,\n    \"_fogDensity\": 0.3,\n    \"_fogStart\": 0.5,\n    \"_fogEnd\": 300,\n    \"_fogAtten\": 5,\n    \"_fogTop\": 1.5,\n    \"_fogRange\": 1.2,\n    \"_accurate\": false\n  },\n  {\n    \"__type__\": \"cc.OctreeInfo\",\n    \"_enabled\": false,\n    \"_minPos\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": -1024,\n      \"y\": -1024,\n      \"z\": -1024\n    },\n    \"_maxPos\": {\n      \"__type__\": \"cc.Vec3\",\n      \"x\": 1024,\n      \"y\": 1024,\n      \"z\": 1024\n    },\n    \"_depth\": 8\n  },\n  {\n    \"__type__\": \"cc.SkinInfo\",\n    \"_enabled\": true,\n    \"_blurRadius\": 0.01,\n    \"_sssIntensity\": 3\n  },\n  {\n    \"__type__\": \"cc.LightProbeInfo\",\n    \"_giScale\": 1,\n    \"_giSamples\": 1024,\n    \"_bounces\": 2,\n    \"_reduceRinging\": 0,\n    \"_showProbe\": true,\n    \"_showWireframe\": true,\n    \"_showConvex\": false,\n    \"_data\": null,\n    \"_lightProbeSphereVolume\": 1\n  },\n  {\n    \"__type__\": \"cc.PostSettingsInfo\",\n    \"_toneMappingType\": 0\n  }\n]",
+        "create_time": "2025-11-03 09:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1435",
+        "message_id": "om_x100b5fb2b96fe91c0e39b473e98b0c2",
+        "message_position": "1435",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "editor是支持api方式操作的。你如果要用ai来操作也是可以的",
+        "create_time": "2025-11-03 09:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1436",
+        "message_id": "om_x100b5fb2b694b9400f3324c95fb47e6",
+        "message_position": "1436",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "就比如这么一个sence得json",
+        "create_time": "2025-11-03 09:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1437",
+        "message_id": "om_x100b5fb2b454364c0f21afab41aad69",
+        "message_position": "1437",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "他认识但他不一定能创建",
+        "create_time": "2025-11-03 09:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1438",
+        "message_id": "om_x100b5fb2b52a9f100f17ff7785ff4ce",
+        "message_position": "1438",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "editor操作得还是这个节点得属性",
+        "create_time": "2025-11-03 09:03",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1439",
+        "message_id": "om_x100b5fb2b08af0200f2dce763834832",
+        "message_position": "1439",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "什么[UITransform](https://docs.cocos.com/creator/3.8/api/zh/class/UITransform) Widget 之类的",
+        "create_time": "2025-11-03 09:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1440",
+        "message_id": "om_x100b5fb34f1c358c0f1946fe6fcf4c8",
+        "message_position": "1440",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "update_time": "2025-11-03 09:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "你看的这些都是游戏对象，你是既要看的是编辑器 https://docs.cocos.com/creator/3.8/manual/zh/editor/extension/extension-manager.html",
+        "create_time": "2025-11-03 09:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1441",
+        "message_id": "om_x100b5fb3466a3adc0e337ea20326b86",
+        "message_position": "1441",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "update_time": "2025-11-03 09:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "这不是插件吗",
+        "create_time": "2025-11-03 09:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1442",
+        "message_id": "om_x100b5fb345b4a4100f15f6136db33a1",
+        "message_position": "1442",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "对啊，你要操作的是editor啊",
+        "create_time": "2025-11-03 09:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1443",
+        "message_id": "om_x100b5fb342afe8f80f4eb15d954c7da",
+        "message_position": "1443",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_b3c9590c9016cbed8f90a0bb4187397a",
+          "id_type": "open_id",
+          "name": "FYF",
+          "sender_i18n_names": {
+            "zh_cn": "大模型善后工程师-K叔"
+          },
+          "sender_type": "user",
+          "tenant_key": "1249282e490f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "保存了",
+        "create_time": "2025-11-03 09:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1444",
+        "message_id": "om_x100b5fb3430d50c80f42ad86bd23e9c",
+        "message_position": "1444",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "慢点我工作做完 我来玩这个",
+        "create_time": "2025-11-03 09:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1445",
+        "message_id": "om_x100b5fb35ebf25980e3b93902fab02e",
+        "message_position": "1445",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不是，这用不用插件都是一样的 你直接打开项目把前端文件导入trae是一样的",
+        "create_time": "2025-11-03 09:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1446",
+        "message_id": "om_x100b5fb35e0ac9300ecf3841e9ed2a2",
+        "message_position": "1446",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "强，我还不了解  web  2D  3D 代码有什么区别",
+        "create_time": "2025-11-03 09:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1447",
+        "message_id": "om_x100b5fb35e34ac100f47d515f9a6534",
+        "message_position": "1447",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_83503a7120d749a87eae6b0736717afe",
+          "id_type": "open_id",
+          "name": "阿全",
+          "sender_type": "user",
+          "tenant_key": "132da414760e975e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "cocos 我没有试过 一定试试",
+        "create_time": "2025-11-03 09:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1448",
+        "message_id": "om_x100b5fb35c107ad80f48ce8650536ac",
+        "message_position": "1448",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "跟插不插件没关系",
+        "create_time": "2025-11-03 09:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=1449",
+        "message_id": "om_x100b5fb35c39f4ec0f1884e08b04574",
+        "message_position": "1449",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_63b6ba7aa983112655c9fa4f1580aca3",
+          "id_type": "open_id",
+          "name": "陈莫",
+          "sender_type": "user",
+          "tenant_key": "1194a5f5bf4dd75f"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "4cXSlmN7uFAnWWU5yfIGMNHYErPS41AcPTyrdla9hKeSxwVgGTFQb09BtZy5_0IU1F2Jbewvmoslr7BlF1rEKOogJjW5-NiouHvr3Tu-H_-wH0BstrmJRW50lt35D1_o",
+    "total": 48
+  },
+  "meta": {
+    "pagination": {
+      "complete": false,
+      "pages": 1,
+      "items": 48,
+      "next_token": "4cXSlmN7uFAnWWU5yfIGMNHYErPS41AcPTyrdla9hKeSxwVgGTFQb09BtZy5_0IU1F2Jbewvmoslr7BlF1rEKOogJjW5-NiouHvr3Tu-H_-wH0BstrmJRW50lt35D1_o"
+    }
+  }
+}

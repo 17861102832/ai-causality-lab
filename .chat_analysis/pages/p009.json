@@ -1,0 +1,1141 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": true,
+    "messages": [
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "最近有想法是做那种基于LLM的交互式文字游戏",
+        "create_time": "2025-09-23 09:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=400",
+        "message_id": "om_x100b4212992957340f3441eaee1cd5d",
+        "message_position": "400",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "主要是太费钱了",
+        "create_time": "2025-09-23 09:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=401",
+        "message_id": "om_x100b4212960f80940e369379f29bba5",
+        "message_position": "401",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "做一个以ai为主角的交互式文字游戏",
+        "create_time": "2025-09-23 09:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=402",
+        "message_id": "om_x100b421295af34e80f46d0aa3c90510",
+        "message_position": "402",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3f2d2d5061205f1251e56a336aebfe96",
+          "id_type": "open_id",
+          "name": "张婷",
+          "sender_i18n_names": {
+            "en_us": "zhangting",
+            "zh_cn": "张婷"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "猫箱",
+        "create_time": "2025-09-23 09:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=403",
+        "message_id": "om_x100b421292d6421c0e3c9d55ea286bf",
+        "message_position": "403",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@刘文溢 啥游戏 挣到钱了吗",
+        "create_time": "2025-09-23 09:52",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+            "key": "@_user_1",
+            "name": "刘文溢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=404",
+        "message_id": "om_x100b421292e492400f1c98433fdf351",
+        "message_position": "404",
+        "msg_type": "text",
+        "reply_to": "om_x100b42129f8f906c0f36461821c9b25",
+        "sender": {
+          "id": "ou_8af3344eb450ba567e862d4fb2b17194",
+          "id_type": "open_id",
+          "name": "陈潮Chao",
+          "sender_type": "user",
+          "tenant_key": "134a127dacce5758"
+        },
+        "update_time": "2025-09-23 09:52",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02qd_7606bcaf-0a91-416e-a356-7843972c23fg]",
+        "create_time": "2025-09-23 09:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=405",
+        "message_id": "om_x100b421293b51cb40f40ab228665dfa",
+        "message_position": "405",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "update_time": "2025-09-23 09:52",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "利用AI生成高度个性化、动态发展、且充满意外惊喜的故事线",
+        "create_time": "2025-09-23 09:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=406",
+        "message_id": "om_x100b42129338ecb00f4c4d26051161d",
+        "message_position": "406",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02qd_ce0638a5-b977-4c0d-8c59-71669dda9fbg]",
+        "create_time": "2025-09-23 09:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=407",
+        "message_id": "om_x100b421290fa14240f4efb8c7d8ca11",
+        "message_position": "407",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "update_time": "2025-09-23 09:52",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@张婷 开局一条狗的武侠故事",
+        "create_time": "2025-09-23 09:52",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3f2d2d5061205f1251e56a336aebfe96",
+            "key": "@_user_1",
+            "name": "张婷"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=408",
+        "message_id": "om_x100b42129085b4ac0f31b8917c69307",
+        "message_position": "408",
+        "msg_type": "text",
+        "reply_to": "om_x100b421295af34e80f46d0aa3c90510",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "update_time": "2025-09-23 09:52",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "猫箱，字节的一个应用，就是基于LLM的互动游戏",
+        "create_time": "2025-09-23 09:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=409",
+        "message_id": "om_x100b4212ae66483c0f31d81a5e386d6",
+        "message_position": "409",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "或者是那种找茬游戏",
+        "create_time": "2025-09-23 09:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=410",
+        "message_id": "om_x100b4212af3fb0f40f490a2d48e34cf",
+        "message_position": "410",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "之前抖音上推广的挺狠的，我就下了试了一下",
+        "create_time": "2025-09-23 09:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=411",
+        "message_id": "om_x100b4212acaee0140e3f6ba3b1ab5df",
+        "message_position": "411",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@王渤 我去年这个时候就在规划了，当时在北卡州都完成了简单市调，反馈都还不错，但是初期的Token是个大问题～～～",
+        "create_time": "2025-09-23 09:54",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+            "key": "@_user_1",
+            "name": "王渤"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=412",
+        "message_id": "om_x100b4212ad419c100f32db424c3fab5",
+        "message_position": "412",
+        "msg_type": "text",
+        "reply_to": "om_x100b4212992957340f3441eaee1cd5d",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "update_time": "2025-09-23 09:54",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "token的问题说的是啥",
+        "create_time": "2025-09-23 09:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=413",
+        "message_id": "om_x100b4212ab3e3ba00f486a88dd2261d",
+        "message_position": "413",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9f2354084f5023b3d28a68fbe88fbb9a",
+          "id_type": "open_id",
+          "name": "李佳宁",
+          "sender_i18n_names": {
+            "en_us": "Jenny Li",
+            "zh_cn": "李佳宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "736588c9260f175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "API消耗的费用扛不住",
+        "create_time": "2025-09-23 09:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=414",
+        "message_id": "om_x100b4212a68c70d00e3bea479f41f99",
+        "message_position": "414",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@刘文溢 用的什么模型呀 国内的模型会不会便宜些",
+        "create_time": "2025-09-23 09:55",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+            "key": "@_user_1",
+            "name": "刘文溢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=415",
+        "message_id": "om_x100b4212a70484100e3bdc7e2164c46",
+        "message_position": "415",
+        "msg_type": "text",
+        "reply_to": "om_x100b4212ad419c100f32db424c3fab5",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "update_time": "2025-09-23 09:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我在百度智能体做的游戏，人均每天使用时长3503秒。",
+        "create_time": "2025-09-23 09:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=416",
+        "message_id": "om_x100b4212a4cb18400e3d8fe5e38f14a",
+        "message_position": "416",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@刘文溢 这么长",
+        "create_time": "2025-09-23 09:56",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+            "key": "@_user_1",
+            "name": "刘文溢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=417",
+        "message_id": "om_x100b4212a5dcbd240f406616f09f12a",
+        "message_position": "417",
+        "msg_type": "text",
+        "reply_to": "om_x100b4212a4cb18400e3d8fe5e38f14a",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "update_time": "2025-09-23 09:56",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "但是没啥收益，挺扯淡的。",
+        "create_time": "2025-09-23 09:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=418",
+        "message_id": "om_x100b4212a52640440f3572efedd5b32",
+        "message_position": "418",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "没有付费点，需要充值特权刺激下[看]",
+        "create_time": "2025-09-23 09:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=419",
+        "message_id": "om_x100b4212a0c133880e3f762b02f9bb5",
+        "message_position": "419",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@王渤 你搞个  个人飞书号呢。",
+        "create_time": "2025-09-23 09:57",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+            "key": "@_user_1",
+            "name": "王渤"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=420",
+        "message_id": "om_x100b4212bf6bd0080f2c3bcb1adefee",
+        "message_position": "420",
+        "msg_type": "text",
+        "reply_to": "om_x100b42129fcc50980f4162779ffda61",
+        "sender": {
+          "id": "ou_d8adf442a37886c249c83fd94dee9bc2",
+          "id_type": "open_id",
+          "name": "丁知成",
+          "sender_i18n_names": {
+            "zh_cn": "Kaorixsol"
+          },
+          "sender_type": "user",
+          "tenant_key": "14e4bbc48c4ad740"
+        },
+        "update_time": "2025-09-23 09:57",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有一些商业模式可以盈利，但是在财务上并不是一两个月就能打平的。",
+        "create_time": "2025-09-23 09:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=421",
+        "message_id": "om_x100b4212bf0d49a80e3c14d37201f3b",
+        "message_position": "421",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "比如：充钱晚挽回失去的爱情。否则重新开启一段恋情",
+        "create_time": "2025-09-23 09:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=422",
+        "message_id": "om_x100b4212bf36ac200f42714a34064d6",
+        "message_position": "422",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@丁知成 个人飞书账号好像用不了飞书项目？",
+        "create_time": "2025-09-23 09:58",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_d8adf442a37886c249c83fd94dee9bc2",
+            "key": "@_user_1",
+            "name": "丁知成"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=423",
+        "message_id": "om_x100b4212bc3f80880f3a0ddf804d2cb",
+        "message_position": "423",
+        "msg_type": "text",
+        "reply_to": "om_x100b4212bf6bd0080f2c3bcb1adefee",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "update_time": "2025-09-23 09:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我试了下",
+        "create_time": "2025-09-23 09:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=424",
+        "message_id": "om_x100b4212bdac2e140f36fca1052c9e5",
+        "message_position": "424",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "好像用不了",
+        "create_time": "2025-09-23 09:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=425",
+        "message_id": "om_x100b4212bd2bddb00f3219b75cf92ff",
+        "message_position": "425",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@丁知成 你能用吗哥",
+        "create_time": "2025-09-23 09:58",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_d8adf442a37886c249c83fd94dee9bc2",
+            "key": "@_user_1",
+            "name": "丁知成"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=426",
+        "message_id": "om_x100b4212ba7954b80f31dc9e0f8aa01",
+        "message_position": "426",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "update_time": "2025-09-23 09:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "白嫖硅基流动的拉新余额",
+        "create_time": "2025-09-23 09:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=427",
+        "message_id": "om_x100b4212bbc6ace80f369e6b17869c3",
+        "message_position": "427",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@王渤 没版号只能打打广告，看广告挽回失去的爱情[看]",
+        "create_time": "2025-09-23 09:58",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+            "key": "@_user_1",
+            "name": "王渤"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=428",
+        "message_id": "om_x100b4212bbee1c500e321414bdf888e",
+        "message_position": "428",
+        "msg_type": "text",
+        "reply_to": "om_x100b4212bf36ac200f42714a34064d6",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "update_time": "2025-09-23 09:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@王渤 原来这样，我还真没试过。",
+        "create_time": "2025-09-23 09:58",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+            "key": "@_user_1",
+            "name": "王渤"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=429",
+        "message_id": "om_x100b4212bb4eb2f80f241b1b71cc921",
+        "message_position": "429",
+        "msg_type": "text",
+        "reply_to": "om_x100b4212ba7954b80f31dc9e0f8aa01",
+        "sender": {
+          "id": "ou_d8adf442a37886c249c83fd94dee9bc2",
+          "id_type": "open_id",
+          "name": "丁知成",
+          "sender_i18n_names": {
+            "zh_cn": "Kaorixsol"
+          },
+          "sender_type": "user",
+          "tenant_key": "14e4bbc48c4ad740"
+        },
+        "update_time": "2025-09-23 09:58",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "海鲜市场几十块钱就可以拉新1400元余额",
+        "create_time": "2025-09-23 09:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=430",
+        "message_id": "om_x100b4212b8cd4c980f45f0b84e45e07",
+        "message_position": "430",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不用拘泥于飞书项目吧，建个多维表格也行的。 反正自己用",
+        "create_time": "2025-09-23 09:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=431",
+        "message_id": "om_x100b4212b9eb90ec0f2f318a658be83",
+        "message_position": "431",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d8adf442a37886c249c83fd94dee9bc2",
+          "id_type": "open_id",
+          "name": "丁知成",
+          "sender_i18n_names": {
+            "zh_cn": "Kaorixsol"
+          },
+          "sender_type": "user",
+          "tenant_key": "14e4bbc48c4ad740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "然后做一个资源池，实现高并发，因为送的余额有并发限制",
+        "create_time": "2025-09-23 09:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=432",
+        "message_id": "om_x100b4212b998440c0f315dfd5e71046",
+        "message_position": "432",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "这是我想到降低成本的办法",
+        "create_time": "2025-09-23 09:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=433",
+        "message_id": "om_x100b4212b911bc680e376ee0a4423da",
+        "message_position": "433",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[思考]",
+        "create_time": "2025-09-23 09:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=434",
+        "message_id": "om_x100b4212b6cc48e00f3084c53c750e2",
+        "message_position": "434",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "可能跟我规划的商业模式有关吧，一来就收费不是我想要的。我希望的是先做规模，然后再谈营收。并且营收也不是花钱买回丢失的爱情这种。",
+        "create_time": "2025-09-23 10:17",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=435",
+        "message_id": "om_x100b421375f7d9100f255d667ce58f1",
+        "message_position": "435",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "跟我一样，我只想做好东西，大家都能玩，不要然也不会做那么多东东",
+        "create_time": "2025-09-23 10:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=436",
+        "message_id": "om_x100b4213097694b80f3b2c61ed408f8",
+        "message_position": "436",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不，跟你不一样。我追求的是极致的规模效应，通过规模化来驱动飞轮。哈哈哈。",
+        "create_time": "2025-09-23 10:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=437",
+        "message_id": "om_x100b42130530ec8c0ecc09450f92660",
+        "message_position": "437",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@刘文溢 这种游戏应该比较吃推广，哈哈哈",
+        "create_time": "2025-09-23 10:32",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+            "key": "@_user_1",
+            "name": "刘文溢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=438",
+        "message_id": "om_x100b42133df37e700f145d9b1759027",
+        "message_position": "438",
+        "msg_type": "text",
+        "reply_to": "om_x100b42130530ec8c0ecc09450f92660",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "update_time": "2025-09-23 10:32",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "也不一定，还是要看飞轮有没转动起来。",
+        "create_time": "2025-09-23 10:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=439",
+        "message_id": "om_x100b421339ce480c0f11b9fa66a6da2",
+        "message_position": "439",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Invalid text JSON]",
+        "create_time": "2025-09-23 10:33",
+        "deleted": true,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=440",
+        "message_id": "om_x100b421337bcf8f40ec8db04dfd5989",
+        "message_position": "440",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我见识过不少赚快钱的项目，有时候也挺眼红的。但是从内心讲，我更希望是能够一个长期持续的业务。",
+        "create_time": "2025-09-23 10:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=441",
+        "message_id": "om_x100b4213c2188c740f22769dbb97d31",
+        "message_position": "441",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "是这样的，有周期性才更好，我朋友赚快钱当时的确挺羡慕他的，但是后续维护，更新直接没有动力了，收入也几乎跟之前比落差很大。",
+        "create_time": "2025-09-23 10:40",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=442",
+        "message_id": "om_x100b4213df201c140f49c4b5b4780d7",
+        "message_position": "442",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7f556865c7207b10a851c2afcb0c456e",
+          "id_type": "open_id",
+          "name": "赵子博",
+          "sender_i18n_names": {
+            "zh_cn": "小博同学"
+          },
+          "sender_type": "user",
+          "tenant_key": "1695091d21dd175d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "目前的赚快钱能力 被投资人视为拥有 造血能力[捂脸]",
+        "create_time": "2025-09-23 10:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=443",
+        "message_id": "om_x100b42138e564b1c0f1738d0aa3233a",
+        "message_position": "443",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_03acc470fc2e77d921a1c7b90df1c34a",
+          "id_type": "open_id",
+          "name": "Morgan",
+          "sender_i18n_names": {
+            "zh_cn": "Morgan11zzZ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bf988a4b744d740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "十多年前，我们也做过个有赚快钱能力的产品，上线两天时间，靠自发裂变的用户数破百。怕被请喝茶，给关了。",
+        "create_time": "2025-09-23 11:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=444",
+        "message_id": "om_x100b421c54e790680f45a50bff11da3",
+        "message_position": "444",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "棋牌，套现类的很容易进去[看]",
+        "create_time": "2025-09-23 11:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=445",
+        "message_id": "om_x100b421c6c7f0ccc0f1f7c3dc7e5375",
+        "message_position": "445",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不是棋牌，是个应用软件，当时全国的潜在用户只有700万。",
+        "create_time": "2025-09-23 11:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=446",
+        "message_id": "om_x100b421c6ba6b4840f4b026109c596c",
+        "message_position": "446",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不合规吗",
+        "create_time": "2025-09-23 11:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=447",
+        "message_id": "om_x100b421c66c408c00f224834985b22a",
+        "message_position": "447",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "算是合规吧，但是有些敏感。",
+        "create_time": "2025-09-23 11:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=448",
+        "message_id": "om_x100b421c7f1f0ccc0e35647724c5488",
+        "message_position": "448",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+          "id_type": "open_id",
+          "name": "刘文溢",
+          "sender_type": "user",
+          "tenant_key": "14ddceb32e5ed74f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@刘文溢 牛逼",
+        "create_time": "2025-09-23 11:54",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_48557ec3739ee52497dd7a83a64f2672",
+            "key": "@_user_1",
+            "name": "刘文溢"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=449",
+        "message_id": "om_x100b421ce89ffcec0e34098bf06a00e",
+        "message_position": "449",
+        "msg_type": "text",
+        "reply_to": "om_x100b421c54e790680f45a50bff11da3",
+        "sender": {
+          "id": "ou_6a3a15a328371da40f4f242bfee2bcd5",
+          "id_type": "open_id",
+          "name": "钱巍",
+          "sender_i18n_names": {
+            "zh_cn": "铁头钱"
+          },
+          "sender_type": "user",
+          "tenant_key": "12dc391a710e975d"
+        },
+        "update_time": "2025-09-23 11:54",
+        "updated": true
+      }
+    ],
+    "page_token": "4cXSlmN7uFAnWWU5yfIGMCibVK3aLI754o5MXjXHQK2rSIl3vgoo6vSLdilDTMaxt-5OrudRNwO36YXspErcSZ7f4VVSn4FqUu2pHDtsBzGGeFd_J-MpxEGJiL8jpGPd",
+    "total": 50
+  },
+  "meta": {
+    "pagination": {
+      "complete": false,
+      "pages": 1,
+      "items": 50,
+      "next_token": "4cXSlmN7uFAnWWU5yfIGMCibVK3aLI754o5MXjXHQK2rSIl3vgoo6vSLdilDTMaxt-5OrudRNwO36YXspErcSZ7f4VVSn4FqUu2pHDtsBzGGeFd_J-MpxEGJiL8jpGPd"
+    }
+  }
+}

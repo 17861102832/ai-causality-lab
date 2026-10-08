@@ -1,0 +1,933 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": true,
+    "messages": [
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "为啥抠图软件会这么大？",
+        "create_time": "2026-01-07 01:27",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2651",
+        "message_id": "om_x100b5aef287b048cb23878f14e0822b",
+        "message_position": "2651",
+        "msg_type": "text",
+        "reply_to": "om_x100b5ae41cc1e4acb3fa73828baf552",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "可能包含的python库大？",
+        "create_time": "2026-01-07 01:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2652",
+        "message_id": "om_x100b5aef202af0a8c2590f0c2ac2404",
+        "message_position": "2652",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_56b1f232c2fdf519899ba34c9dee1f2d",
+          "id_type": "open_id",
+          "name": "管浩景",
+          "sender_i18n_names": {
+            "zh_cn": "管浩景"
+          },
+          "sender_type": "user",
+          "tenant_key": "1661a6853983175e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "可能内置了一个模型",
+        "create_time": "2026-01-07 01:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2653",
+        "message_id": "om_x100b5aef3f1a8080c29ab73340309a4",
+        "message_position": "2653",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_487d5089fc6ae98614572d3a6fed2997",
+          "id_type": "open_id",
+          "name": "李巍",
+          "sender_type": "user",
+          "tenant_key": "1613e63b194d175f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有模型",
+        "create_time": "2026-01-07 01:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2654",
+        "message_id": "om_x100b5aef3cf84cb0c3bb1822a91c843",
+        "message_position": "2654",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_03acc470fc2e77d921a1c7b90df1c34a",
+          "id_type": "open_id",
+          "name": "Morgan",
+          "sender_i18n_names": {
+            "zh_cn": "Morgan11zzZ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bf988a4b744d740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "trae 里能使用 uiux pro max 吗",
+        "create_time": "2026-01-08 14:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2657",
+        "message_id": "om_x100b5acfc71d8cb0c26634dadae0cec",
+        "message_position": "2657",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_6f067de1d7791a2a3516d292a8ae0441",
+          "id_type": "open_id",
+          "name": "王政华",
+          "sender_i18n_names": {
+            "zh_cn": "花焰"
+          },
+          "sender_type": "user",
+          "tenant_key": "1308f2a88b8c975f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "能 强行引用到对话里",
+        "create_time": "2026-01-08 14:19",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2658",
+        "message_id": "om_x100b5acf833ab4a8b3840d1d2ff3130",
+        "message_position": "2658",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_587b97fdc71701ed72934d8fae0b8cbc",
+          "id_type": "open_id",
+          "name": "曹翔",
+          "sender_i18n_names": {
+            "en_us": "cc",
+            "zh_cn": "cc"
+          },
+          "sender_type": "user",
+          "tenant_key": "1484e1b221425740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "![Image](img_v3_02to_c04dc186-92c6-4f47-ad5c-afa0c73cf69g)\n是不是需要把 claud 目录下的文件 拷贝到 .trae 里",
+        "create_time": "2026-01-08 14:30",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2659",
+        "message_id": "om_x100b5acfb4fe6ca8c112b6802124e84",
+        "message_position": "2659",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_6f067de1d7791a2a3516d292a8ae0441",
+          "id_type": "open_id",
+          "name": "王政华",
+          "sender_i18n_names": {
+            "zh_cn": "花焰"
+          },
+          "sender_type": "user",
+          "tenant_key": "1308f2a88b8c975f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不能吧",
+        "create_time": "2026-01-08 23:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2660",
+        "message_id": "om_x100b59307709c0a0c39c02a58bd4eab",
+        "message_position": "2660",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24306cc83f8f62d96e0691c532cf5d47",
+          "id_type": "open_id",
+          "name": "王松柏",
+          "sender_type": "user",
+          "tenant_key": "14895e284fda575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@王政华 其实是可以的，skill说白了，也是提示语，之所以单独拿出来，目的是让AI在需要的时候加载，你以#文件的形式，只是让文件立马加载",
+        "create_time": "2026-01-09 02:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6f067de1d7791a2a3516d292a8ae0441",
+            "key": "@_user_1",
+            "name": "王政华"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2661",
+        "message_id": "om_x100b593267d838b8c3e25b683dc389a",
+        "message_position": "2661",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_caf34634e670c42ada48e7f803aeb048",
+          "id_type": "open_id",
+          "name": "刘金良",
+          "sender_type": "user",
+          "tenant_key": "2cd1e11d46cf575d"
+        },
+        "update_time": "2026-01-09 02:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "达不到skill的设计的初衷而已",
+        "create_time": "2026-01-09 02:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2662",
+        "message_id": "om_x100b593264b368a8c395341f1fcdbae",
+        "message_position": "2662",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_caf34634e670c42ada48e7f803aeb048",
+          "id_type": "open_id",
+          "name": "刘金良",
+          "sender_type": "user",
+          "tenant_key": "2cd1e11d46cf575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "你都不需要拷贝，直接拖拽文件即可， 等trae更新skill后，应该可以直接用。（相关兼容skill的技能，研发同学也关注了）",
+        "create_time": "2026-01-09 02:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2663",
+        "message_id": "om_x100b59327ea83cb0c3fcc98937ae27d",
+        "message_position": "2663",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_caf34634e670c42ada48e7f803aeb048",
+          "id_type": "open_id",
+          "name": "刘金良",
+          "sender_type": "user",
+          "tenant_key": "2cd1e11d46cf575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@王政华 是的，但是你现在没有这个激活权限。",
+        "create_time": "2026-01-09 03:35",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_6f067de1d7791a2a3516d292a8ae0441",
+            "key": "@_user_1",
+            "name": "王政华"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2664",
+        "message_id": "om_x100b5933391734a4c14ed8c55f1fbfd",
+        "message_position": "2664",
+        "msg_type": "text",
+        "reply_to": "om_x100b5acfb4fe6ca8c112b6802124e84",
+        "sender": {
+          "id": "ou_df98ff9c7d02f58160f66a73b83c52bd",
+          "id_type": "open_id",
+          "name": "李健",
+          "sender_i18n_names": {
+            "en_us": "lijian"
+          },
+          "sender_type": "user",
+          "tenant_key": "2c141991d20f575e"
+        },
+        "update_time": "2026-01-09 03:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "用trae做的小游戏上架了，欢迎体验吐槽😅\n![Image](img_v3_02tr_6dfd1a39-9181-4ef1-9c2d-eef4240ad9fg)\n千面三国",
+        "create_time": "2026-01-11 09:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2666",
+        "message_id": "om_x100b5902c36dc8a4c3923564003a625",
+        "message_position": "2666",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_e6f80392d4e44ee1a615aa35c9cc4807",
+          "id_type": "open_id",
+          "name": "陈彰(Chen Zhang)",
+          "sender_i18n_names": {
+            "zh_cn": "XiaoQ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a6795c97f95d75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "这个做了多久呀？点进去完全看不出是trae做的，完成度好高",
+        "create_time": "2026-01-11 09:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2667",
+        "message_id": "om_x100b5902db04a8a8b3f9fd92e95cc97",
+        "message_position": "2667",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_28745d8f9f60c0f1af46f84c1ae5b3bc",
+          "id_type": "open_id",
+          "name": "juan",
+          "sender_i18n_names": {
+            "zh_cn": "海参"
+          },
+          "sender_type": "user",
+          "tenant_key": "17e5af0824c6175f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@陈彰(Chen Zhang) 三国版羊了个羊[看]",
+        "create_time": "2026-01-11 09:13",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_e6f80392d4e44ee1a615aa35c9cc4807",
+            "key": "@_user_1",
+            "name": "陈彰(Chen Zhang)"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2668",
+        "message_id": "om_x100b5902d29300a0b21e1026ab43e0d",
+        "message_position": "2668",
+        "msg_type": "text",
+        "reply_to": "om_x100b5902c36dc8a4c3923564003a625",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "update_time": "2026-01-11 09:13",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cp\u003e@juan 小半年吧，下班时间边学边做\u003c/p\u003e",
+        "create_time": "2026-01-11 09:17",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_28745d8f9f60c0f1af46f84c1ae5b3bc",
+            "key": "@_user_1",
+            "name": "juan"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2669",
+        "message_id": "om_x100b5902e4ed80acc292c688eab3498",
+        "message_position": "2669",
+        "msg_type": "text",
+        "reply_to": "om_x100b5902db04a8a8b3f9fd92e95cc97",
+        "sender": {
+          "id": "ou_e6f80392d4e44ee1a615aa35c9cc4807",
+          "id_type": "open_id",
+          "name": "陈彰(Chen Zhang)",
+          "sender_i18n_names": {
+            "zh_cn": "XiaoQ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a6795c97f95d75f"
+        },
+        "update_time": "2026-01-11 09:17",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "真厉害",
+        "create_time": "2026-01-11 11:16",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2671",
+        "message_id": "om_x100b590c29d118a4b392f1d4a7f046b",
+        "message_position": "2671",
+        "msg_type": "text",
+        "reply_to": "om_x100b5902c36dc8a4c3923564003a625",
+        "sender": {
+          "id": "ou_6f067de1d7791a2a3516d292a8ae0441",
+          "id_type": "open_id",
+          "name": "王政华",
+          "sender_i18n_names": {
+            "zh_cn": "花焰"
+          },
+          "sender_type": "user",
+          "tenant_key": "1308f2a88b8c975f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "这是只要底下的一栏能凑够3个就可以消除，不用一定要挨着才行吗？",
+        "create_time": "2026-01-12 07:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2672",
+        "message_id": "om_x100b597ed0f15cb4c3a032bc9c7a280",
+        "message_position": "2672",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7e02fcfd5694d7e127e18d68586a61b9",
+          "id_type": "open_id",
+          "name": "周朔",
+          "sender_i18n_names": {
+            "zh_cn": "Zhosolune"
+          },
+          "sender_type": "user",
+          "tenant_key": "16248b4a656c1758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "那感觉没难度呀",
+        "create_time": "2026-01-12 07:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2673",
+        "message_id": "om_x100b597ed1e85cbcc4987cc25c6ac95",
+        "message_position": "2673",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7e02fcfd5694d7e127e18d68586a61b9",
+          "id_type": "open_id",
+          "name": "周朔",
+          "sender_i18n_names": {
+            "zh_cn": "Zhosolune"
+          },
+          "sender_type": "user",
+          "tenant_key": "16248b4a656c1758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "爽游来的",
+        "create_time": "2026-01-12 08:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2674",
+        "message_id": "om_x100b597eee7cf8b4c2f1d15d91c3951",
+        "message_position": "2674",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_9b419f312894f7b123b6bf0a9cb8cda3",
+          "id_type": "open_id",
+          "name": "李永宇",
+          "sender_type": "user",
+          "tenant_key": "1b72b6a9ab189740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@郑铠聪 我把这个游戏推荐给朋友了[呲牙]",
+        "create_time": "2026-01-12 08:37",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f3c0c7d511eb21391fc0f636fede27bc",
+            "key": "@_user_1",
+            "name": "郑铠聪"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2675",
+        "message_id": "om_x100b597f623904acb3616703cde7b66",
+        "message_position": "2675",
+        "msg_type": "text",
+        "reply_to": "om_x100b5b81ecdb3090c396a76275180db",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "update_time": "2026-01-12 08:37",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02ts_564ebff8-d9ca-43bd-a12e-0bdc4fb3994g]",
+        "create_time": "2026-01-12 08:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2676",
+        "message_id": "om_x100b597f604c20a8b2aa8a7a83c32b4",
+        "message_position": "2676",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "千万不要停服呀[呲牙]",
+        "create_time": "2026-01-12 08:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2677",
+        "message_id": "om_x100b597f61afd084b3dd9604eb89797",
+        "message_position": "2677",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "哇塞哈哈哈",
+        "create_time": "2026-01-12 08:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2678",
+        "message_id": "om_x100b597f7c572908b387c2b82fa4a4f",
+        "message_position": "2678",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f3c0c7d511eb21391fc0f636fede27bc",
+          "id_type": "open_id",
+          "name": "郑铠聪",
+          "sender_i18n_names": {
+            "zh_cn": "kaicong"
+          },
+          "sender_type": "user",
+          "tenant_key": "1589bb39aa9c575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有没有隐蔽一点的，以文字为主，不容易被发现的",
+        "create_time": "2026-01-12 08:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2679",
+        "message_id": "om_x100b597f040650a4c2e7ce2ec990215",
+        "message_position": "2679",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_487d5089fc6ae98614572d3a6fed2997",
+          "id_type": "open_id",
+          "name": "李巍",
+          "sender_type": "user",
+          "tenant_key": "1613e63b194d175f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@陈彰(Chen Zhang) 群里真实人才辈出",
+        "create_time": "2026-01-12 08:47",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_e6f80392d4e44ee1a615aa35c9cc4807",
+            "key": "@_user_1",
+            "name": "陈彰(Chen Zhang)"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2680",
+        "message_id": "om_x100b597f1e6078b4b10187d191ed15f",
+        "message_position": "2680",
+        "msg_type": "text",
+        "reply_to": "om_x100b5902c36dc8a4c3923564003a625",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "update_time": "2026-01-12 08:47",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "收藏了",
+        "create_time": "2026-01-12 08:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2681",
+        "message_id": "om_x100b597f1fe000a4b3704dea09689ec",
+        "message_position": "2681",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_78d07efc008b121b3005fa64e16ab4d0",
+          "id_type": "open_id",
+          "name": "王渤",
+          "sender_i18n_names": {
+            "zh_cn": "王渤"
+          },
+          "sender_type": "user",
+          "tenant_key": "160d1e446903575d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "是的， 考虑后面再迭代迭代，还没太想好方案[我想静静]",
+        "create_time": "2026-01-13 07:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2682",
+        "message_id": "om_x100b596b32a2bce0b4c269d50a18da4",
+        "message_position": "2682",
+        "msg_type": "text",
+        "reply_to": "om_x100b597ed1e85cbcc4987cc25c6ac95",
+        "sender": {
+          "id": "ou_e6f80392d4e44ee1a615aa35c9cc4807",
+          "id_type": "open_id",
+          "name": "陈彰(Chen Zhang)",
+          "sender_i18n_names": {
+            "zh_cn": "XiaoQ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a6795c97f95d75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "后期会比较难 关卡数上去后",
+        "create_time": "2026-01-13 07:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2683",
+        "message_id": "om_x100b596bcedd68bcb34169b65b009df",
+        "message_position": "2683",
+        "msg_type": "text",
+        "reply_to": "om_x100b597ed1e85cbcc4987cc25c6ac95",
+        "sender": {
+          "id": "ou_e6f80392d4e44ee1a615aa35c9cc4807",
+          "id_type": "open_id",
+          "name": "陈彰(Chen Zhang)",
+          "sender_i18n_names": {
+            "zh_cn": "XiaoQ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a6795c97f95d75f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有人吗？",
+        "create_time": "2026-01-18 06:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2686",
+        "message_id": "om_x100b59fc6f27b0b8b3683a4c21fd4f9",
+        "message_position": "2686",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_73e49073ffdc74f93abf93121f48e12c",
+          "id_type": "open_id",
+          "name": "咖啡",
+          "sender_type": "user",
+          "tenant_key": "10a5e67f47571740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有的",
+        "create_time": "2026-01-18 06:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2687",
+        "message_id": "om_x100b59fc6c07d4a0c2ca3c4679b7ea7",
+        "message_position": "2687",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_03acc470fc2e77d921a1c7b90df1c34a",
+          "id_type": "open_id",
+          "name": "Morgan",
+          "sender_i18n_names": {
+            "zh_cn": "Morgan11zzZ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bf988a4b744d740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "那个技能是什么意思？知识库功能？",
+        "create_time": "2026-01-18 06:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2688",
+        "message_id": "om_x100b59fc6ae3eca4b386c644945e7f8",
+        "message_position": "2688",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_73e49073ffdc74f93abf93121f48e12c",
+          "id_type": "open_id",
+          "name": "咖啡",
+          "sender_type": "user",
+          "tenant_key": "10a5e67f47571740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "但是我上传视频上去 读取不了....",
+        "create_time": "2026-01-18 06:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2689",
+        "message_id": "om_x100b59fc685ba0a4b4a1e6588bcbfc9",
+        "message_position": "2689",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_73e49073ffdc74f93abf93121f48e12c",
+          "id_type": "open_id",
+          "name": "咖啡",
+          "sender_type": "user",
+          "tenant_key": "10a5e67f47571740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "规则和技能那里....",
+        "create_time": "2026-01-18 06:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2690",
+        "message_id": "om_x100b59fc66144c68b2ca825f96e4068",
+        "message_position": "2690",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_73e49073ffdc74f93abf93121f48e12c",
+          "id_type": "open_id",
+          "name": "咖啡",
+          "sender_type": "user",
+          "tenant_key": "10a5e67f47571740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "你应该理解错了 视频是需要先转成文档才行吧 哪个技能？",
+        "create_time": "2026-01-18 06:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2691",
+        "message_id": "om_x100b59fc72f710a4c3482f00ec25feb",
+        "message_position": "2691",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_03acc470fc2e77d921a1c7b90df1c34a",
+          "id_type": "open_id",
+          "name": "Morgan",
+          "sender_i18n_names": {
+            "zh_cn": "Morgan11zzZ"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bf988a4b744d740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "新出得功能  在国内版里",
+        "create_time": "2026-01-18 06:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2692",
+        "message_id": "om_x100b59fc0a84d0a0b105d9fa114866e",
+        "message_position": "2692",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_73e49073ffdc74f93abf93121f48e12c",
+          "id_type": "open_id",
+          "name": "咖啡",
+          "sender_type": "user",
+          "tenant_key": "10a5e67f47571740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我以为是直接上传视频上去",
+        "create_time": "2026-01-18 06:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2693",
+        "message_id": "om_x100b59fc0bd150b0b344402ef98ae2f",
+        "message_position": "2693",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_73e49073ffdc74f93abf93121f48e12c",
+          "id_type": "open_id",
+          "name": "咖啡",
+          "sender_type": "user",
+          "tenant_key": "10a5e67f47571740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "什么技能？",
+        "create_time": "2026-01-18 07:24",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2694",
+        "message_id": "om_x100b59fce4e02ca4c398376e972aed8",
+        "message_position": "2694",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "比我这种菜鸟不会写shader，就可以用skills帮我",
+        "create_time": "2026-01-18 07:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2695",
+        "message_id": "om_x100b59fd6fdc90acb4ce23c7d4d3488",
+        "message_position": "2695",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_487d5089fc6ae98614572d3a6fed2997",
+          "id_type": "open_id",
+          "name": "李巍",
+          "sender_type": "user",
+          "tenant_key": "1613e63b194d175f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "按也一样",
+        "create_time": "2026-01-18 07:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2696",
+        "message_id": "om_x100b59fd6ae4e0a4b4b9ce0ddd9e89e",
+        "message_position": "2696",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f360c00daeb4325c6dd8e4e94f860ea5",
+          "id_type": "open_id",
+          "name": "问问",
+          "sender_type": "user",
+          "tenant_key": "13306dac32cf9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "https://mp.weixin.qq.com/s/gvA_gU-u2l2auPG25VtrGA",
+        "create_time": "2026-01-19 11:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2697",
+        "message_id": "om_x100b59d4b5c170bcc2e78808f6f5988",
+        "message_position": "2697",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4f59ec5d722610d39f99800b7b4a1410",
+          "id_type": "open_id",
+          "name": "AI发明家",
+          "sender_i18n_names": {
+            "zh_cn": "AI发明家"
+          },
+          "sender_type": "user",
+          "tenant_key": "11a41c016186575f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "https://traebirth.kingzeus.space/s/51297c83-bcec-4f93-999d-108ecd66d9af",
+        "create_time": "2026-01-20 08:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2698",
+        "message_id": "om_x100b59c7ab54aca8c36ee4664c3b769",
+        "message_position": "2698",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24306cc83f8f62d96e0691c532cf5d47",
+          "id_type": "open_id",
+          "name": "王松柏",
+          "sender_type": "user",
+          "tenant_key": "14895e284fda575f"
+        },
+        "update_time": "2026-01-20 08:35",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cvideo key=\"file_v3_00u7_d7e93df9-a4af-40e3-b189-23cfb8813fcg\" name=\"Video_1769006172247_101.mp4\" duration=\"88s\" cover_image_key=\"img_v3_02u7_1d42c71a-9100-4d33-a71c-e0acbec80f5g\"/\u003e",
+        "create_time": "2026-01-23 03:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=2699",
+        "message_id": "om_x100b581a2933b0a0c35d3a57f45d7a7",
+        "message_position": "2699",
+        "msg_type": "media",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "4cXSlmN7uFAnWWU5yfIGMCzaNFqH4B_PfXM2AQtKkWAw4VNozuBW-eG_Is04WY9z_yzyZK8OLcQZxSfcLzsF8yPVEb3yg5kM96EwgSRcizE3kEv1tVVQQkhgCbDyjvFt",
+    "total": 43
+  },
+  "meta": {
+    "pagination": {
+      "complete": false,
+      "pages": 1,
+      "items": 43,
+      "next_token": "4cXSlmN7uFAnWWU5yfIGMCzaNFqH4B_PfXM2AQtKkWAw4VNozuBW-eG_Is04WY9z_yzyZK8OLcQZxSfcLzsF8yPVEb3yg5kM96EwgSRcizE3kEv1tVVQQkhgCbDyjvFt"
+    }
+  }
+}

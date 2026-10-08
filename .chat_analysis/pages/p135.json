@@ -1,0 +1,1012 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": true,
+    "messages": [
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@错人了吧",
+        "create_time": "2026-06-01 13:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6700",
+        "message_id": "om_x100b6eec967a5900c2fefda7b35171f",
+        "message_position": "6700",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4ad147c3c36f0824ebf98772297e4425",
+          "id_type": "open_id",
+          "name": "李树鸿",
+          "sender_i18n_names": {
+            "zh_cn": "Doraemon"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a869a03249a1be2"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[新月脸]",
+        "create_time": "2026-06-01 13:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6701",
+        "message_id": "om_x100b6eec97da60a0c10b6e6b682bff7",
+        "message_position": "6701",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4ad147c3c36f0824ebf98772297e4425",
+          "id_type": "open_id",
+          "name": "李树鸿",
+          "sender_i18n_names": {
+            "zh_cn": "Doraemon"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a869a03249a1be2"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@吴晓斌 ",
+        "create_time": "2026-06-01 13:48",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_7d6849be3e2b5268639681ff01945b85",
+            "key": "@_user_1",
+            "name": "吴晓斌"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6702",
+        "message_id": "om_x100b6eec954914a0c3b7e5eb553b334",
+        "message_position": "6702",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "update_time": "2026-06-01 13:48",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[新月脸]",
+        "create_time": "2026-06-01 13:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6703",
+        "message_id": "om_x100b6eec951574a4c420b3dfa9f2d2f",
+        "message_position": "6703",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "说话这么大声干嘛",
+        "create_time": "2026-06-01 13:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6704",
+        "message_id": "om_x100b6eec925c74a4c4a5c0a2b15af7f",
+        "message_position": "6704",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[新月脸]",
+        "create_time": "2026-06-01 13:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6705",
+        "message_id": "om_x100b6eec9276ccacc3c7a889b655f1f",
+        "message_position": "6705",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "gpt",
+        "create_time": "2026-06-01 13:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6706",
+        "message_id": "om_x100b6eec93678138c3235decdda6430",
+        "message_position": "6706",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7d6849be3e2b5268639681ff01945b85",
+          "id_type": "open_id",
+          "name": "吴晓斌",
+          "sender_type": "user",
+          "tenant_key": "177445c4e789d75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "那算了",
+        "create_time": "2026-06-01 13:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6707",
+        "message_id": "om_x100b6eec90a808b0c44ac3b05dda236",
+        "message_position": "6707",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[尬笑]",
+        "create_time": "2026-06-01 13:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6708",
+        "message_id": "om_x100b6eec9049009cc42da7c14980111",
+        "message_position": "6708",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "没米",
+        "create_time": "2026-06-01 13:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6709",
+        "message_id": "om_x100b6eec9060eca4c3c4cd4bb8946b7",
+        "message_position": "6709",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4cfb3a44f88268e2af3bf49c62504488",
+          "id_type": "open_id",
+          "name": "况伟",
+          "sender_i18n_names": {
+            "zh_cn": "肥肥3鸭鸭"
+          },
+          "sender_type": "user",
+          "tenant_key": "1be6081c5e55574f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "免费的也行",
+        "create_time": "2026-06-01 13:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6710",
+        "message_id": "om_x100b6eecac4574a4c4cdbaa73777e1c",
+        "message_position": "6710",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_7d6849be3e2b5268639681ff01945b85",
+          "id_type": "open_id",
+          "name": "吴晓斌",
+          "sender_type": "user",
+          "tenant_key": "177445c4e789d75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_02128_988d0f7d-b4bf-419e-ac8a-8c251adcb7dg]",
+        "create_time": "2026-06-01 14:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6711",
+        "message_id": "om_x100b6eed6dc5a0a0b2edbd9376dcb88",
+        "message_position": "6711",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_487d5089fc6ae98614572d3a6fed2997",
+          "id_type": "open_id",
+          "name": "李巍",
+          "sender_type": "user",
+          "tenant_key": "1613e63b194d175f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "头都大了",
+        "create_time": "2026-06-01 16:38",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6712",
+        "message_id": "om_x100b6eef16ad94a8c35140bbd0789b8",
+        "message_position": "6712",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4ad147c3c36f0824ebf98772297e4425",
+          "id_type": "open_id",
+          "name": "李树鸿",
+          "sender_i18n_names": {
+            "zh_cn": "Doraemon"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a869a03249a1be2"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "迷你m3强不强",
+        "create_time": "2026-06-01 20:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6713",
+        "message_id": "om_x100b6eeb4bd1e0a0c3b2bea103cd05f",
+        "message_position": "6713",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-01 20:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6714",
+        "message_id": "om_x100b6eeb488acca0c388251e4eaedb4",
+        "message_position": "6714",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "这模型用的挺垃圾的，老是连接失败，是不是官方没续费啊？[看]",
+        "create_time": "2026-06-01 20:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6715",
+        "message_id": "om_x100b6eeb62609ca0c225fd9bbf5aa53",
+        "message_position": "6715",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@用户815023 这是啥模型[新月脸][新月脸]",
+        "create_time": "2026-06-02 00:36",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+            "key": "@_user_1",
+            "name": "用户815023"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6716",
+        "message_id": "om_x100b6ed616a4c47cc2d02234927c6ea",
+        "message_position": "6716",
+        "msg_type": "text",
+        "reply_to": "om_x100b6eeb4bd1e0a0c3b2bea103cd05f",
+        "sender": {
+          "id": "ou_4ad147c3c36f0824ebf98772297e4425",
+          "id_type": "open_id",
+          "name": "李树鸿",
+          "sender_i18n_names": {
+            "zh_cn": "Doraemon"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a869a03249a1be2"
+        },
+        "update_time": "2026-06-02 00:36",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "上线看看就有了，迷你m3",
+        "create_time": "2026-06-02 00:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6717",
+        "message_id": "om_x100b6ed61481dd3cc38760efa0bb51c",
+        "message_position": "6717",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "好了，不干活了，这个点排队排到死",
+        "create_time": "2026-06-02 01:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6718",
+        "message_id": "om_x100b6ed760d500a0c2a3bd4b5afe00a",
+        "message_position": "6718",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "中午在玩",
+        "create_time": "2026-06-02 01:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6719",
+        "message_id": "om_x100b6ed7600a4cb4c458a3c1b142d8b",
+        "message_position": "6719",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-02 01:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6720",
+        "message_id": "om_x100b6ed761cadd04c496cc4bb7777e3",
+        "message_position": "6720",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-02 01:36",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6721",
+        "message_id": "om_x100b6ed7756c6cacb1237b2a710cbd8",
+        "message_position": "6721",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_7d6849be3e2b5268639681ff01945b85",
+          "id_type": "open_id",
+          "name": "吴晓斌",
+          "sender_type": "user",
+          "tenant_key": "177445c4e789d75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-02 01:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6722",
+        "message_id": "om_x100b6ed7cba400acc4e52b28bca1561",
+        "message_position": "6722",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_cd1198e6f10dcfa4f629393192113fbb",
+          "id_type": "open_id",
+          "name": "耿家威",
+          "sender_type": "user",
+          "tenant_key": "10bedb08e39ad758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-02 06:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6726",
+        "message_id": "om_x100b6ed353bc60acc2f9769e4f48f53",
+        "message_position": "6726",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_4ad147c3c36f0824ebf98772297e4425",
+          "id_type": "open_id",
+          "name": "李树鸿",
+          "sender_i18n_names": {
+            "zh_cn": "Doraemon"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a869a03249a1be2"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "骗你的  中午也一堆入",
+        "create_time": "2026-06-02 06:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6727",
+        "message_id": "om_x100b6ed3518560a4c22ef0f9bc5e1e6",
+        "message_position": "6727",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_4ad147c3c36f0824ebf98772297e4425",
+          "id_type": "open_id",
+          "name": "李树鸿",
+          "sender_i18n_names": {
+            "zh_cn": "Doraemon"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a869a03249a1be2"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-02 06:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6728",
+        "message_id": "om_x100b6ed351baf088c32522e4b4c3b29",
+        "message_position": "6728",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_4ad147c3c36f0824ebf98772297e4425",
+          "id_type": "open_id",
+          "name": "李树鸿",
+          "sender_i18n_names": {
+            "zh_cn": "Doraemon"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a869a03249a1be2"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "此群日常无人",
+        "create_time": "2026-06-03 04:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6729",
+        "message_id": "om_x100b6ecf49f5e0b4c0af2734802536f",
+        "message_position": "6729",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-03 04:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6730",
+        "message_id": "om_x100b6ecf497b8cb0c23a9af721d86bc",
+        "message_position": "6730",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "都赚钱去了",
+        "create_time": "2026-06-03 04:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6731",
+        "message_id": "om_x100b6ecf46afe0acc45dfe431b3d1b9",
+        "message_position": "6731",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-03 04:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6732",
+        "message_id": "om_x100b6ecf4674e0b0c3b51180a2e2a39",
+        "message_position": "6732",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-03 04:45",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6733",
+        "message_id": "om_x100b6ecf5993ec84c05223bd4e19bb6",
+        "message_position": "6733",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_7d6849be3e2b5268639681ff01945b85",
+          "id_type": "open_id",
+          "name": "吴晓斌",
+          "sender_type": "user",
+          "tenant_key": "177445c4e789d75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "Al游戏最严重的问题在于资源的生成。\n无限剧情、无限分支、npc的自由对话意味着无限\n的资源,包括建模、动画、特效、场景、音乐音效、\n表格配置等等,而AI只能提供无限的文本。Al说它\n发明了一个新的武功招式,发现了一个新的神秘地\n点,讲了一段设计时不存在的npc故事,这些都是\n需要大量的美术、音效、策划资源来支持的。而现\n在的游戏资源还是以开发时预制为主,虽然AI可以\n参与预制工作,但仍然离不开人类的智能、决策、\n审美能力。如果让AI在游戏运行时动态生成资源,\n你只能得到简陋、粗糙和混乱的东西,这本质还是\nAI能力不足。",
+        "create_time": "2026-06-03 04:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6734",
+        "message_id": "om_x100b6ecf520f38a0c4ade844f15792b",
+        "message_position": "6734",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_487d5089fc6ae98614572d3a6fed2997",
+          "id_type": "open_id",
+          "name": "李巍",
+          "sender_type": "user",
+          "tenant_key": "1613e63b194d175f"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "建模AI测试下来不好 不过有人搭配成功过",
+        "create_time": "2026-06-03 04:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6735",
+        "message_id": "om_x100b6ecf6f3a74a4c1bdaafa682cbec",
+        "message_position": "6735",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "所以怎么弄还看自己",
+        "create_time": "2026-06-03 04:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6736",
+        "message_id": "om_x100b6ecf6dad0ca8c1d86ca3a23c024",
+        "message_position": "6736",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "AI不足 是用国内版和听人乱说ai 给你造那个假象 正确项目还要正确的人 不然永远在一个地方打转",
+        "create_time": "2026-06-03 04:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6737",
+        "message_id": "om_x100b6ecf629950b8c020c01cda3d150",
+        "message_position": "6737",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "AI也是有帮助的",
+        "create_time": "2026-06-03 04:51",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6738",
+        "message_id": "om_x100b6ecf637d14a4c3c3f8da5251378",
+        "message_position": "6738",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_95550ef385bff7b16c2981776f7f94ad",
+          "id_type": "open_id",
+          "name": "金杰",
+          "sender_i18n_names": {
+            "zh_cn": "全栈-金杰"
+          },
+          "sender_type": "user",
+          "tenant_key": "11c32491281c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "听不懂",
+        "create_time": "2026-06-03 06:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6740",
+        "message_id": "om_x100b6ec8bbfd90a0c2b64b76872f67b",
+        "message_position": "6740",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Sticker]",
+        "create_time": "2026-06-03 06:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6741",
+        "message_id": "om_x100b6ec8bb8210a0c269cfe6501b1a3",
+        "message_position": "6741",
+        "msg_type": "sticker",
+        "sender": {
+          "id": "ou_c8b895c3314241bcea3445e7638c1bfc",
+          "id_type": "open_id",
+          "name": "用户815023",
+          "sender_i18n_names": {
+            "zh_cn": "阿宁"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a66c2d99fdf1740"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有sandance2.0 的需求没，有折扣",
+        "create_time": "2026-06-03 12:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6742",
+        "message_id": "om_x100b6d366b32a8acb261c73ba9f2b95",
+        "message_position": "6742",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_bc000d6a62a786eeccdbeead0bddf104",
+          "id_type": "open_id",
+          "name": "陆琰",
+          "sender_type": "user",
+          "tenant_key": "2d5f03e2af4f175e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@陆琰 我至今不知道他能干啥[看]",
+        "create_time": "2026-06-03 14:04",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_bc000d6a62a786eeccdbeead0bddf104",
+            "key": "@_user_1",
+            "name": "陆琰"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6743",
+        "message_id": "om_x100b6d370b68e130c2984771274222b",
+        "message_position": "6743",
+        "msg_type": "text",
+        "reply_to": "om_x100b6d366b32a8acb261c73ba9f2b95",
+        "sender": {
+          "id": "ou_7d6849be3e2b5268639681ff01945b85",
+          "id_type": "open_id",
+          "name": "吴晓斌",
+          "sender_type": "user",
+          "tenant_key": "177445c4e789d75d"
+        },
+        "update_time": "2026-06-03 14:04",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "渠道商？中转站？能到多少折扣？",
+        "create_time": "2026-06-03 15:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6744",
+        "message_id": "om_x100b6d306edd88acc106fa703e997c3",
+        "message_position": "6744",
+        "msg_type": "text",
+        "reply_to": "om_x100b6d366b32a8acb261c73ba9f2b95",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@AAG 有那钱，直接上官方plans不香吗[看]\n\n远离灰色产业链",
+        "create_time": "2026-06-03 15:05",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_24abb65980416e73cdea63e05c089967",
+            "key": "@_user_1",
+            "name": "AAG"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6745",
+        "message_id": "om_x100b6d30623d58a4c4a1aee9b6e236f",
+        "message_position": "6745",
+        "msg_type": "text",
+        "reply_to": "om_x100b6d306edd88acc106fa703e997c3",
+        "sender": {
+          "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+          "id_type": "open_id",
+          "name": "用户031695",
+          "sender_i18n_names": {
+            "zh_cn": "Learnmore_smart"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bac74bec98e5949"
+        },
+        "update_time": "2026-06-03 15:05",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@用户031695 sandance2.0[机智]",
+        "create_time": "2026-06-03 15:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+            "key": "@_user_1",
+            "name": "用户031695"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6746",
+        "message_id": "om_x100b6d307eb334a0c21ea3d7151e453",
+        "message_position": "6746",
+        "msg_type": "text",
+        "reply_to": "om_x100b6d30623d58a4c4a1aee9b6e236f",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "update_time": "2026-06-03 15:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@用户031695 我就好奇这san是啥玩意",
+        "create_time": "2026-06-03 15:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+            "key": "@_user_1",
+            "name": "用户031695"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6747",
+        "message_id": "om_x100b6d307fd010acc355968d6189431",
+        "message_position": "6747",
+        "msg_type": "text",
+        "reply_to": "om_x100b6d30623d58a4c4a1aee9b6e236f",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "update_time": "2026-06-03 15:06",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "sandance，脑补了seedance[笑哭]",
+        "create_time": "2026-06-03 15:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6748",
+        "message_id": "om_x100b6d307480dca4b290c382b0f2b8c",
+        "message_position": "6748",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_a3ffafe50724f25dc98c1a6fff7a44eb",
+          "id_type": "open_id",
+          "name": "用户031695",
+          "sender_i18n_names": {
+            "zh_cn": "Learnmore_smart"
+          },
+          "sender_type": "user",
+          "tenant_key": "1bac74bec98e5949"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "现在海外版是不是支持自定义外接模型了（中转平台那种），有没有大佬尝试过",
+        "create_time": "2026-06-04 00:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=6749",
+        "message_id": "om_x100b6d38d03a64a4c2d844f3eaa942e",
+        "message_position": "6749",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_56b1f232c2fdf519899ba34c9dee1f2d",
+          "id_type": "open_id",
+          "name": "管浩景",
+          "sender_i18n_names": {
+            "zh_cn": "管浩景"
+          },
+          "sender_type": "user",
+          "tenant_key": "1661a6853983175e"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "4cXSlmN7uFAnWWU5yfIGMLTURZ6ND1-tR4NDwrnxc1IMOP50cL5fuD2U0uGYQqTaFCW1ULok25lVyUH-XlEoURwtfJDI7_1zd5I_McZCDIys9fw-KPn-K5dZKUPenVV5",
+    "total": 46
+  },
+  "meta": {
+    "pagination": {
+      "complete": false,
+      "pages": 1,
+      "items": 46,
+      "next_token": "4cXSlmN7uFAnWWU5yfIGMLTURZ6ND1-tR4NDwrnxc1IMOP50cL5fuD2U0uGYQqTaFCW1ULok25lVyUH-XlEoURwtfJDI7_1zd5I_McZCDIys9fw-KPn-K5dZKUPenVV5"
+    }
+  }
+}

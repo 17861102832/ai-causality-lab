@@ -1,0 +1,1096 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": true,
+    "messages": [
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "mcp和接口好做，模型上限不行",
+        "create_time": "2026-07-21 15:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9900",
+        "message_id": "om_x100b6acd72309ca4c11d95eb0225c84",
+        "message_position": "9900",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cp\u003e写详细应该没问题吧，但也跟手调没区别了。简单的应该可以做，复杂的直接用现成的或者动捕吧[捂脸]我还真没想到绑骨会卡链路，或许可以专门练一个模型当护城河[看]\u003c/p\u003e",
+        "create_time": "2026-07-21 15:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9901",
+        "message_id": "om_x100b6acd09bda0a0deb71d1cab1838e",
+        "message_position": "9901",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ad2e35a0355e29bdd14482f366070072",
+          "id_type": "open_id",
+          "name": "用户490066",
+          "sender_i18n_names": {
+            "zh_cn": "taichi开发者"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a190b038d0ddc98"
+        },
+        "update_time": "2026-07-21 15:47",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有识图能力的2d绘制能简单应付，3d的还是不行",
+        "create_time": "2026-07-21 15:47",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9902",
+        "message_id": "om_x100b6acd07d158a4c07ceaf256bad66",
+        "message_position": "9902",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "老哥你是想让ai绑骨骼？这活人干都费劲，都漏点呢",
+        "create_time": "2026-07-21 15:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9903",
+        "message_id": "om_x100b6acd02abf4a0deb623e4ef60548",
+        "message_position": "9903",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "3d也没指望能一口气做完了[捂脸]况且现在做3d模型生成的不是自带绑骨的吗",
+        "create_time": "2026-07-21 15:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9904",
+        "message_id": "om_x100b6acd0304bca0df69c317fd22c23",
+        "message_position": "9904",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ad2e35a0355e29bdd14482f366070072",
+          "id_type": "open_id",
+          "name": "用户490066",
+          "sender_i18n_names": {
+            "zh_cn": "taichi开发者"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a190b038d0ddc98"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "就是效果太差了",
+        "create_time": "2026-07-21 15:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9905",
+        "message_id": "om_x100b6acd000c40a8c4c5c51e9a5df12",
+        "message_position": "9905",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ad2e35a0355e29bdd14482f366070072",
+          "id_type": "open_id",
+          "name": "用户490066",
+          "sender_i18n_names": {
+            "zh_cn": "taichi开发者"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a190b038d0ddc98"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "没法用那种的",
+        "create_time": "2026-07-21 15:49",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9906",
+        "message_id": "om_x100b6acd014938acc32b2dfd97b571b",
+        "message_position": "9906",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我先尝试做一下吧，2d应该是能胜任的，现在发展这么快，每年都有新惊喜",
+        "create_time": "2026-07-21 15:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9907",
+        "message_id": "om_x100b6acd1a48d0a0deef908deb8b8d9",
+        "message_position": "9907",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ad2e35a0355e29bdd14482f366070072",
+          "id_type": "open_id",
+          "name": "用户490066",
+          "sender_i18n_names": {
+            "zh_cn": "taichi开发者"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a190b038d0ddc98"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "2d自动绑骨骼么",
+        "create_time": "2026-07-21 15:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9908",
+        "message_id": "om_x100b6acd1b0204a0b179b7089793192",
+        "message_position": "9908",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我试过一个，识别和切图太糟糕，估计我用的识别模型太糟糕，高级模型，又懒得花钱试",
+        "create_time": "2026-07-21 15:52",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9909",
+        "message_id": "om_x100b6acd15b6d8a0b3916b8a71e3c9a",
+        "message_position": "9909",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "2d不一定要棒骨吧[捂脸]本质不就是抠图加多帧动作吗",
+        "create_time": "2026-07-21 15:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9910",
+        "message_id": "om_x100b6acd10d04d30dfdc59eca9ce6fd",
+        "message_position": "9910",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ad2e35a0355e29bdd14482f366070072",
+          "id_type": "open_id",
+          "name": "用户490066",
+          "sender_i18n_names": {
+            "zh_cn": "taichi开发者"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a190b038d0ddc98"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我找找",
+        "create_time": "2026-07-21 15:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9911",
+        "message_id": "om_x100b6acd11dae8a0de9f8a5b3dce496",
+        "message_position": "9911",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@杨毓松 你配个imagine2的mcp让他直接生成啊",
+        "create_time": "2026-07-21 15:53",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+            "key": "@_user_1",
+            "name": "杨毓松"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9912",
+        "message_id": "om_x100b6acd2ebfd0a4c075a569f2c890e",
+        "message_position": "9912",
+        "msg_type": "text",
+        "reply_to": "om_x100b6acd15b6d8a0b3916b8a71e3c9a",
+        "sender": {
+          "id": "ou_ad2e35a0355e29bdd14482f366070072",
+          "id_type": "open_id",
+          "name": "用户490066",
+          "sender_i18n_names": {
+            "zh_cn": "taichi开发者"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a190b038d0ddc98"
+        },
+        "update_time": "2026-07-21 15:53",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "绑骨骼省事点，想做无限动作",
+        "create_time": "2026-07-21 15:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9913",
+        "message_id": "om_x100b6acd2e0b08a4b1c3562b3fe175c",
+        "message_position": "9913",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cfile key=\"file_v3_0013q_a9687692-8166-4e51-93b7-afe80dd6919g\" name=\"Pose-to-Pose.7z\"/\u003e",
+        "create_time": "2026-07-21 15:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9914",
+        "message_id": "om_x100b6acd2e1050a4c3dcb7b9878624b",
+        "message_position": "9914",
+        "msg_type": "file",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "拿别人的小玩意二改的",
+        "create_time": "2026-07-21 15:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9915",
+        "message_id": "om_x100b6acd2ffb0ca0c02483b4e4c17b6",
+        "message_position": "9915",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "\u003cvideo key=\"file_v3_0013q_298b3797-343b-4923-af00-7d4e64530d3g\" name=\"32835c3433d6875ae3e6944b739f7840_raw.mp4\" duration=\"43s\" cover_image_key=\"img_v3_0213q_e51b37bf-e7d8-45db-a712-d11ec44c076g\"/\u003e",
+        "create_time": "2026-07-21 15:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9916",
+        "message_id": "om_x100b6acd2f17e0a4de21bb21941a603",
+        "message_position": "9916",
+        "msg_type": "media",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "情况就是这么个情况",
+        "create_time": "2026-07-21 15:54",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9917",
+        "message_id": "om_x100b6acd2ac174a0c274a1364e10182",
+        "message_position": "9917",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "动作多和准确么",
+        "create_time": "2026-07-21 15:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9918",
+        "message_id": "om_x100b6acd2bba88a0b3b969a71e2adaf",
+        "message_position": "9918",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "不准确",
+        "create_time": "2026-07-21 15:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9919",
+        "message_id": "om_x100b6acd2b25aca4ddd1aa363c07ebc",
+        "message_position": "9919",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "很随机",
+        "create_time": "2026-07-21 15:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9920",
+        "message_id": "om_x100b6acd28d9f0a8dfe269955d4404b",
+        "message_position": "9920",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我自己也做了，但是动作需要调",
+        "create_time": "2026-07-21 15:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9921",
+        "message_id": "om_x100b6acd288960a0b128e167aa7bd30",
+        "message_position": "9921",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "嗯，太累",
+        "create_time": "2026-07-21 15:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9922",
+        "message_id": "om_x100b6acd284abca0b10f9b8fa9cc01b",
+        "message_position": "9922",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我是懒得出奇那种",
+        "create_time": "2026-07-21 15:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9923",
+        "message_id": "om_x100b6acd298758a0b491bfdc09424b2",
+        "message_position": "9923",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@AAG 我思路是直接把人设图用来生图把这四个动作都画下来",
+        "create_time": "2026-07-21 15:55",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_24abb65980416e73cdea63e05c089967",
+            "key": "@_user_1",
+            "name": "AAG"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9924",
+        "message_id": "om_x100b6acd297af4a0dded4f8a940670f",
+        "message_position": "9924",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ad2e35a0355e29bdd14482f366070072",
+          "id_type": "open_id",
+          "name": "用户490066",
+          "sender_i18n_names": {
+            "zh_cn": "taichi开发者"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a190b038d0ddc98"
+        },
+        "update_time": "2026-07-21 15:55",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "有个方案",
+        "create_time": "2026-07-21 15:55",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9925",
+        "message_id": "om_x100b6acd261de530c371de96354c091",
+        "message_position": "9925",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "live2d",
+        "create_time": "2026-07-21 15:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9926",
+        "message_id": "om_x100b6acd263384a0c1b2a62b42597db",
+        "message_position": "9926",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "用生图+自动抠图+自动绑骨",
+        "create_time": "2026-07-21 15:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9927",
+        "message_id": "om_x100b6acd2426f4a8de9020d394bf6e6",
+        "message_position": "9927",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我自己没试过，但是有人这玩意走通了",
+        "create_time": "2026-07-21 15:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9928",
+        "message_id": "om_x100b6acd23cc64a4c38a54c87bc2d35",
+        "message_position": "9928",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "这个我试过了，不是用live2d",
+        "create_time": "2026-07-21 15:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9929",
+        "message_id": "om_x100b6acd209e6ca0b2c07766aa4950e",
+        "message_position": "9929",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "抠图问题太大",
+        "create_time": "2026-07-21 15:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9930",
+        "message_id": "om_x100b6acd21ce2d34b273a73593bc634",
+        "message_position": "9930",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "所以放弃了",
+        "create_time": "2026-07-21 15:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9931",
+        "message_id": "om_x100b6acd21b2a8a0b3babb5d8c5a1fc",
+        "message_position": "9931",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "动作都出来了，但是我看不上",
+        "create_time": "2026-07-21 15:57",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9932",
+        "message_id": "om_x100b6acd3ec2f0a0b21bfeed1d2096b",
+        "message_position": "9932",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "商用应该不行",
+        "create_time": "2026-07-21 15:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9933",
+        "message_id": "om_x100b6acd3fdbbca0c272ea09cf1e3d2",
+        "message_position": "9933",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[您的动作陪伴ai出生了_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1A3Eb6PELE/) 这个是骨架的动画",
+        "create_time": "2026-07-21 15:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9934",
+        "message_id": "om_x100b6acd3fb750a0b1f0360a53ee1f0",
+        "message_position": "9934",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "做真实动画，就会比较别扭，调的话，又太多动作",
+        "create_time": "2026-07-21 15:58",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9935",
+        "message_id": "om_x100b6acd3d6a64a0b226a9b12255149",
+        "message_position": "9935",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "动作打包让AI调用啊 这个方案",
+        "create_time": "2026-07-21 15:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9936",
+        "message_id": "om_x100b6acd3b38a4a0ddedc84e8e971db",
+        "message_position": "9936",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "切图识别的各个部位会出各种问题，所以抠图比较糟糕，最新的分图层不知道有没有人体相关的",
+        "create_time": "2026-07-21 15:59",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9937",
+        "message_id": "om_x100b6acd38ffb8a4b243f584f039da2",
+        "message_position": "9937",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "现在的自动识别方案还不如我直接切正方形",
+        "create_time": "2026-07-21 16:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9938",
+        "message_id": "om_x100b6acd3773c0a4b1838217744e01e",
+        "message_position": "9938",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "如果我改成贝塞尔曲线手动切，可能效果就好很多了。但是这个又是手工了。",
+        "create_time": "2026-07-21 16:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9939",
+        "message_id": "om_x100b6acd329368a0b2154e52d98baef",
+        "message_position": "9939",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "熬不住了，我先睡了，感谢各位建议，我明天试试@[捂脸]",
+        "create_time": "2026-07-21 16:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9940",
+        "message_id": "om_x100b6acd307f74a4ddd9f3f0e1709fd",
+        "message_position": "9940",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_ad2e35a0355e29bdd14482f366070072",
+          "id_type": "open_id",
+          "name": "用户490066",
+          "sender_i18n_names": {
+            "zh_cn": "taichi开发者"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a190b038d0ddc98"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "现在还是没办法全自动",
+        "create_time": "2026-07-21 16:01",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9941",
+        "message_id": "om_x100b6acd3022b0a0df6517ac6257755",
+        "message_position": "9941",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "改天我运行一下，截图大家看看效果，就是动作大的地方容易出现分离感，方形切图的话。然而我的动作经常需要夸张",
+        "create_time": "2026-07-21 16:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9942",
+        "message_id": "om_x100b6acdcfcfe8a0b4b76c84a6f2d58",
+        "message_position": "9942",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "休息",
+        "create_time": "2026-07-21 16:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9943",
+        "message_id": "om_x100b6acdccfc8ca4b030ba5ba2d5145",
+        "message_position": "9943",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "[Image: img_v3_0213r_a2f88e7d-d4b3-4b3c-8179-413b2cb788eg]",
+        "create_time": "2026-07-22 01:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9944",
+        "message_id": "om_x100b6935d5161cb0c3f37ffe150c024",
+        "message_position": "9944",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_f3c0c7d511eb21391fc0f636fede27bc",
+          "id_type": "open_id",
+          "name": "郑铠聪",
+          "sender_i18n_names": {
+            "zh_cn": "kaicong"
+          },
+          "sender_type": "user",
+          "tenant_key": "1589bb39aa9c575f"
+        },
+        "update_time": "2026-07-22 01:15",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "@用户490066",
+        "create_time": "2026-07-22 01:16",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ad2e35a0355e29bdd14482f366070072",
+            "key": "@_user_1",
+            "name": "用户490066"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9945",
+        "message_id": "om_x100b6935d0c664a8de2c0e26fe460df",
+        "message_position": "9945",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f3c0c7d511eb21391fc0f636fede27bc",
+          "id_type": "open_id",
+          "name": "郑铠聪",
+          "sender_i18n_names": {
+            "zh_cn": "kaicong"
+          },
+          "sender_type": "user",
+          "tenant_key": "1589bb39aa9c575f"
+        },
+        "update_time": "2026-07-22 01:16",
+        "updated": true
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "给接口是好事",
+        "create_time": "2026-07-22 01:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9946",
+        "message_id": "om_x100b6935f4f8c0a4de3cfc994d0cabd",
+        "message_position": "9946",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "模型厂商自己就搞数据集和训练了",
+        "create_time": "2026-07-22 01:24",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9947",
+        "message_id": "om_x100b6935f5c3f0a0c2c74dfde5e2003",
+        "message_position": "9947",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_24abb65980416e73cdea63e05c089967",
+          "id_type": "open_id",
+          "name": "AAG",
+          "sender_i18n_names": {
+            "zh_cn": "AAG"
+          },
+          "sender_type": "user",
+          "tenant_key": "1a2c3b7224c35ce7"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "https://mp.weixin.qq.com/s/Bp0VBQki7ABhtsekMXVaVQ?scene=1\u0026click_id=2070782483 参考这个方案 应该可以走通",
+        "create_time": "2026-07-22 02:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9948",
+        "message_id": "om_x100b6936917c3088b346b2cfc96be54",
+        "message_position": "9948",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_bb9de104afaa52da14a5cc2ea6d4f821",
+        "content": "我做的就不发了，效果不到位",
+        "create_time": "2026-07-22 02:42",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_bb9de104afaa52da14a5cc2ea6d4f821\u0026position=9949",
+        "message_id": "om_x100b6936afebd4b0b307b42d45dda5c",
+        "message_position": "9949",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_be2a8d6103a1f1485bb4cd0b8f6802a8",
+          "id_type": "open_id",
+          "name": "杨毓松",
+          "sender_i18n_names": {
+            "zh_cn": "蜻蜓"
+          },
+          "sender_type": "user",
+          "tenant_key": "109b504d539b575e"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "4cXSlmN7uFAnWWU5yfIGMOd4SQAd2AbqYXdIEE5xo6QLPZOkimlE6hUapbZpVajFsjVZdDHJAkx9jd7518wRBtPbbvPFGLR5oJ97vWQsm7uA1091m_SuPss8aUJepR3C",
+    "total": 50
+  },
+  "meta": {
+    "pagination": {
+      "complete": false,
+      "pages": 1,
+      "items": 50,
+      "next_token": "4cXSlmN7uFAnWWU5yfIGMOd4SQAd2AbqYXdIEE5xo6QLPZOkimlE6hUapbZpVajFsjVZdDHJAkx9jd7518wRBtPbbvPFGLR5oJ97vWQsm7uA1091m_SuPss8aUJepR3C"
+    }
+  }
+}
